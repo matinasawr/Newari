@@ -1,0 +1,206 @@
+****** अजा ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: अंजु, अज, and अज्
+??
+***** Contents *****
+    * 1_Newar
+          o 1.1_Pronunciation
+          o 1.2_Noun
+    * 2_Pali
+          o 2.1_Alternative_forms
+          o 2.2_Noun
+                # 2.2.1_Declension
+    * 3_Sanskrit
+          o 3.1_Alternative_scripts
+          o 3.2_Etymology
+          o 3.3_Pronunciation
+          o 3.4_Noun
+                # 3.4.1_Declension
+          o 3.5_References
+***** Newar[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [əd͡ʑa]
+**** Noun[edit] ****
+अजा • (ajā) ? (Newa Spelling 𑐀𑐖𑐵)
+   1. paternal_grandfather
+***** Pali[edit] *****
+**** Alternative forms[edit] ****
+Alternative forms
+    * ajā (Latin script)
+    * 𑀅𑀚𑀸 (Brahmi script)
+    * অজা (Bengali script)
+    * අජා (Sinhalese script)
+    * အဇာ or ဢၹႃ (Burmese script)
+    * อชา or อะชา (Thai script)
+    * ᩋᨩᩣ (Tai Tham script)
+    * ອຊາ or ອະຊາ (Lao script)
+    * អជា (Khmer script)
+    * 𑄃𑄎𑄂 (Chakma script)
+**** Noun[edit] ****
+अजा f
+   1. Devanagari_script form of ajā
+*** Declension[edit] ***
+Declension table of "अजा" (feminine)
+Case \ Number        Singular                       Plural
+Nominative (first)   अजा (ajā)                      अजायो (ajāyo) or अजा (ajā)
+Accusative (second)  अजं (ajaṃ)                     अजायो (ajāyo) or अजा (ajā)
+Instrumental (third) अजाय (ajāya)                   अजाहि (ajāhi) or अजाभि
+                                                    (ajābhi)
+Dative (fourth)      अजाय (ajāya)                   अजानं (ajānaṃ)
+Ablative (fifth)     अजाय (ajāya)                   अजाहि (ajāhi) or अजाभि
+                                                    (ajābhi)
+Genitive (sixth)     अजाय (ajāya)                   अजानं (ajānaṃ)
+Locative (seventh)   अजाय (ajāya) or अजायं (ajāyaṃ) अजासु (ajāsu)
+Vocative (calling)   अजे (aje)                      अजायो (ajāyo) or अजा (ajā)
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬅᬚᬵ (Balinese script)
+    * অজা (Assamese script)
+    * অজা (Bengali script)
+    * 𑰀𑰕𑰯 (Bhaiksuki script)
+    * 𑀅𑀚𑀸 (Brahmi script)
+    * 𑌅𑌜𑌾 (Grantha script)
+    * અજા (Gujarati script)
+    * ਅਜਾ (Gurmukhi script)
+    * ꦄꦗꦴ (Javanese script)
+    * អជា (Khmer script)
+    * ಅಜಾ (Kannada script)
+    * ອຊາ (Lao script)
+    * അജാ (Malayalam script)
+    * 𑘀𑘕𑘰 (Modi script)
+    * ᠠᠽᠠ᠋᠎ᠠ (Mongolian script)
+    * ᠠᡯᠠᢇ (Manchu script)
+    * အဇာ (Burmese script)
+    * 𑦠𑦵𑧑 (Nandinagari script)
+    * 𑐀𑐖𑐵 (Newa script)
+    * ଅଜା (Oriya script)
+    * ꢂꢙꢵ (Saurashtra script)
+    * 𑆃𑆘𑆳 (Sharada script)
+    * 𑖀𑖕𑖯 (Siddham script)
+    * අජා (Sinhalese script)
+    * అజా (Telugu script)
+    * อชา (Thai script)
+    * ཨ་ཛཱ (Tibetan script)
+    * 𑒁𑒖𑒰 (Tirhuta script)
+**** Etymology[edit] ****
+Feminine form of अज (aja, “he-goat, driver”), from the root अज् (aj, “to
+drive”).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /ɐ.d͡ʑɑː/
+    * (Classical) IPA(key): /ˈɐ.d͡ʑɑː/
+**** Noun[edit] ****
+अजा • (ajā) f
+   1. female noun of प्रकृति, of माया or Illusion
+   2. she-goat, nanny-goat
+   3. name of a plant whose bulbs resemble the udder of a goat
+*** Declension[edit] ***
+Feminine ā-stem declension of अजा
+Nom. sg.     अजा (ajā)
+Gen. sg.     अजायाः (ajāyāḥ)
+             Singular         Dual                 Plural
+Nominative   अजा (ajā)        अजे (aje)            अजाः (ajāḥ)
+Vocative     अजे (aje)        अजे (aje)            अजाः (ajāḥ)
+Accusative   अजाम् (ajām)     अजे (aje)            अजाः (ajāḥ)
+Instrumental अजया (ajayā)     अजाभ्याम् (ajābhyām) अजाभिः (ajābhiḥ)
+Dative       अजायै (ajāyai)   अजाभ्याम् (ajābhyām) अजाभ्यः (ajābhyaḥ)
+Ablative     अजायाः (ajāyāḥ)  अजाभ्याम् (ajābhyām) अजाभ्यः (ajābhyaḥ)
+Genitive     अजायाः (ajāyāḥ)  अजयोः (ajayoḥ)       अजानाम् (ajānām)
+Locative     अजायाम् (ajāyām) अजयोः (ajayoḥ)       अजासु (ajāsu)
+**** References[edit] ****
+    * Monier-Williams Sanskrit-English Dictionary, page_9
+Retrieved from "https://en.wiktionary.org/w/index.php?title=अजा&oldid=71998746"
+Categories:
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Male_family_members
+    * Pali_lemmas
+    * Pali_nouns
+    * Pali_nouns_in_Devanagari_script
+    * Pali_feminine_nouns
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_feminine_nouns
+    * sa:Female_animals
+    * sa:Plants
+    * sa:Goats
+Hidden categories:
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Pali_terms_with_redundant_head_parameter
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * हिन्दी
+    * Kurdî
+    * Magyar
+    * Malagasy
+    * മലയാളം
+    * मराठी
+    * नेपाली
+    * Română
+    * Русский
+    * संस्कृतम्
+    * ไทย
+    * Türkçe
+    * This page was last edited on 17 March 2023, at 22:43.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

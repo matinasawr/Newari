@@ -1,0 +1,192 @@
+****** आलु ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: आलू
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Noun
+                # 1.3.1_Declension
+    * 2_Nepali
+          o 2.1_Pronunciation
+          o 2.2_Noun
+    * 3_Newar
+          o 3.1_Etymology
+          o 3.2_Pronunciation
+          o 3.3_Noun
+    * 4_Sanskrit
+          o 4.1_Etymology
+          o 4.2_Pronunciation
+          o 4.3_Noun
+                # 4.3.1_Declension
+          o 4.4_References
+***** Hindi[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit आलु (ālu).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /ɑː.luː/, [äː.l̪uː]
+**** Noun[edit] ****
+आलु • (ālu) m (Urdu spelling آلو‎)
+   1. Synonym of आलू (ālū)
+*** Declension[edit] ***
+Declension of आलु (masc u-stem)
+                                    singular plural
+                           direct   आलु      आलु
+                                    ālu      ālu
+                           oblique  आलु      आलुओं
+                                    ālu      āluõ
+                           vocative आलु      आलुओ
+                                    ālu      āluo
+***** Nepali[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [älu]
+    * Phonetic Devanagari: आलु
+**** Noun[edit] ****
+आलु • (ālu)
+   1. potato
+   2. zero, jack
+***** Newar[edit] *****
+**** Etymology[edit] ****
+(This etymology is missing or incomplete. Please add to it, or discuss it at
+the Etymology_scriptorium.)
+**** Pronunciation[edit] ****
+    * IPA(key): [alu]
+**** Noun[edit] ****
+आलु • (ālu) ? (Newa Spelling 𑐁𑐮𑐸)
+   1. plastic
+***** Sanskrit[edit] *****
+**** Etymology[edit] ****
+From Proto-Indo-Aryan *HaHlu, from Proto-Indo-Iranian *HaHlu, from Proto-Indo-
+European *h₂eHlu (“edible root”). Cognate with Latin alium (“onion, garlic”).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /ɑː.lu/
+    * (Classical) IPA(key): /ˈɑː.l̪u/
+**** Noun[edit] ****
+आलु • (ālu) n
+   1. an edible root
+   2. (neologism) potato
+*** Declension[edit] ***
+Neuter u-stem declension of आलु
+Nom. sg.     आलु (ālu)
+Gen. sg.     आलुनः (ālunaḥ)
+             Singular       Dual                 Plural
+Nominative   आलु (ālu)      आलुनी (ālunī)        आलूनि (ālūni)
+Vocative     आलु (ālu)      आलुनी (ālunī)        आलूनि (ālūni)
+Accusative   आलु (ālu)      आलुनी (ālunī)        आलूनि (ālūni)
+Instrumental आलुना (ālunā)  आलुभ्याम् (ālubhyām) आलुभिः (ālubhiḥ)
+Dative       आलुने (ālune)  आलुभ्याम् (ālubhyām) आलुभ्यः (ālubhyaḥ)
+Ablative     आलुनः (ālunaḥ) आलुभ्याम् (ālubhyām) आलुभ्यः (ālubhyaḥ)
+Genitive     आलुनः (ālunaḥ) आलुनोः (ālunoḥ)      आलूनाम् (ālūnām)
+Locative     आलुनि (āluni)  आलुनोः (ālunoḥ)      आलुषु (āluṣu)
+**** References[edit] ****
+    * Monier_Williams (1899), “आलु”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 154/1.
+Retrieved from "https://en.wiktionary.org/w/index.php?title=आलु&oldid=72128766"
+Categories:
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_masculine_nouns
+    * Hindi_masculine_u-stem_nouns
+    * hi:Vegetables
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_nouns
+    * ne:Vegetables
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Materials
+    * Sanskrit_terms_inherited_from_Proto-Indo-Aryan
+    * Sanskrit_terms_derived_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-Iranian
+    * Sanskrit_terms_derived_from_Proto-Indo-Iranian
+    * Sanskrit_terms_inherited_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_neuter_nouns
+    * Sanskrit_neologisms
+Hidden categories:
+    * Requests_for_etymologies_in_Newar_entries
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Deutsch
+    * Français
+    * हिन्दी
+    * Hrvatski
+    * Kurdî
+    * Lietuvių
+    * Magyar
+    * Malagasy
+    * ဘာသာ_မန်
+    * नेपाली
+    * Polski
+    * Русский
+    * संस्कृतम्
+    * Slovenščina
+    * ไทย
+    * This page was last edited on 18 March 2023, at 01:41.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]
