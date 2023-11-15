@@ -1,0 +1,203 @@
+****** ली ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Pronunciation
+          o 1.2_Verb
+    * 2_Newar
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+    * 3_Sanskrit
+          o 3.1_Alternative_forms
+          o 3.2_Alternative_scripts
+          o 3.3_Etymology
+          o 3.4_Pronunciation
+          o 3.5_Root
+                # 3.5.1_Derived_terms
+          o 3.6_Noun
+                # 3.6.1_Declension
+          o 3.7_Further_reading
+***** Hindi[edit] *****
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /liː/, [l̪iː]
+**** Verb[edit] ****
+ली • (lī)
+   1. inflection of लेना (lenā):
+         1. feminine singular perfective participle
+         2. feminine singular perfect indicative
+***** Newar[edit] *****
+**** Etymology[edit] ****
+(This etymology is missing or incomplete. Please add to it, or discuss it at
+the Etymology_scriptorium.)
+**** Pronunciation[edit] ****
+    * IPA(key): [liː]
+**** Noun[edit] ****
+ली • (lī) ? (Newa Spelling 𑐮𑐷)
+   1. brass
+***** Sanskrit[edit] *****
+**** Alternative forms[edit] ****
+    * री (rī)
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬮᬷ (Balinese script)
+    * লী (Assamese script)
+    * লী (Bengali script)
+    * 𑰩𑰱 (Bhaiksuki script)
+    * 𑀮𑀻 (Brahmi script)
+    * 𑌲𑍀 (Grantha script)
+    * લી (Gujarati script)
+    * ਲੀ (Gurmukhi script)
+    * ꦭꦷ (Javanese script)
+    * លី (Khmer script)
+    * ಲೀ (Kannada script)
+    * ລີ (Lao script)
+    * ലീ (Malayalam script)
+    * 𑘩𑘲 (Modi script)
+    * ᠯᠢᠢ (Mongolian script)
+    * ᠯᡳᡳ (Manchu script)
+    * လီ (Burmese script)
+    * 𑧉𑧓 (Nandinagari script)
+    * 𑐮𑐷 (Newa script)
+    * ଲୀ (Oriya script)
+    * ꢭꢷ (Saurashtra script)
+    * 𑆬𑆵 (Sharada script)
+    * 𑖩𑖱 (Siddham script)
+    * ලී (Sinhalese script)
+    * లీ (Telugu script)
+    * ลี (Thai script)
+    * ལཱི (Tibetan script)
+    * 𑒪𑒲 (Tirhuta script)
+**** Etymology[edit] ****
+From Proto-Indo-European *h₂liH-, the zero-grade of *h₂leyH- (“to smear”).
+Compare Latin līmus and Irish lean.
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /liː/
+    * (Classical) IPA(key): /l̪iː/
+**** Root[edit] ****
+ली • (lī)
+   1. to adhere, obtain
+   2. to melt, liquefy, dissolve
+   3. to cling or press closely, stick or adhere to
+   4. to lie, recline, alight or settle on
+   5. to hide or cower down in, disappear, vanish
+   6. to deceive
+   7. to obtain honour
+   8. to humble
+*** Derived terms[edit] ***
+    * लयन (layana)
+    * संलयन (saṃlayana)
+ 
+**** Noun[edit] ****
+ली • (lī) f
+   1. clinging, adhering
+*** Declension[edit] ***
+            Feminine ī-stem declension of ली (lī)
+                         Singular        Dual     Plural
+            Nominative   लीः             लियौ     लियः
+                         līḥ             liyau    liyaḥ
+            Vocative     लीः             लियौ     लियः
+                         līḥ             liyau    liyaḥ
+            Accusative   लियम्           लियौ     लियः
+                         liyam           liyau    liyaḥ
+            Instrumental लिया            लीभ्याम् लीभिः
+                         liyā́           lībhyā́m lībhíḥ
+            Dative       लिये / लियै¹    लीभ्याम् लीभ्यः
+                         liyé / liyaí¹   lībhyā́m lībhyáḥ
+            Ablative     लियः / लियाः¹   लीभ्याम् लीभ्यः
+                         liyáḥ / liyā́ḥ¹ lībhyā́m lībhyáḥ
+            Genitive     लियः / लियाः¹   लियोः    लियाम् / लीनाम्¹
+                         liyáḥ / liyā́ḥ¹ liyóḥ    liyā́m / līnā́m¹
+            Locative     लियि / लियाम्¹  लियोः    लीषु
+                         liyí / liyā́m¹  liyóḥ    līṣú
+            Notes            * ¹Later Sanskrit
+**** Further reading[edit] ****
+    * Monier_Williams (1899), “ली”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 903, column 2.
+Retrieved from "https://en.wiktionary.org/w/index.php?title=ली&oldid=73082033"
+Categories:
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_non-lemma_forms
+    * Hindi_verb_forms
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Alloys
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_roots
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_feminine_nouns
+    * Sanskrit_ī-stem_nouns
+Hidden categories:
+    * Requests_for_etymologies_in_Newar_entries
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Magyar
+    * Malagasy
+    * Русский
+    * संस्कृतम्
+    * This page was last edited on 22 May 2023, at 07:40.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

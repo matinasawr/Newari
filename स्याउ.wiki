@@ -1,0 +1,155 @@
+****** स्याउ ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Nepali
+          o 1.1_Alternative_forms
+          o 1.2_Etymology
+          o 1.3_Pronunciation
+          o 1.4_Noun
+                # 1.4.1_Declension
+                # 1.4.2_Descendants
+          o 1.5_Further_reading
+    * 2_Newar
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+***** Nepali[edit] *****
+[//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/14px-
+Wikipedia-logo.png]
+ स्याउ on Nepali Wikipedia
+[//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/220px-
+Red_Apple.jpg]स्याउ
+**** Alternative forms[edit] ****
+    * सेउ (seu), स्यौ (syau)
+**** Etymology[edit] ****
+Inherited from Sanskrit सेवि (sevi).
+**** Pronunciation[edit] ****
+    * IPA(key): [sjäu̯]
+    * Phonetic Devanagari: स्याउ
+**** Noun[edit] ****
+स्याउ • (syāu)
+   1. apple
+*** Declension[edit] ***
+     Declension of स्याउ
+                           Singular            Plural
+     nominative            स्याउ [sjäu]        स्याउहरू [sjäuʌɾu]
+     accusative            स्याउलाई [sjäuläi]  स्याउहरूलाई [sjäuʌɾuläi]
+     instrumental/ergative स्याउले [sjäule]    स्याउहरूले [sjäuʌɾule]
+     dative                स्याउलाई [sjäuläi]  स्याउहरूलाई [sjäuʌɾuläi]
+     ablative              स्याउबाट [sjäubäʈʌ] स्याउहरूबाट [sjäuʌɾubäʈʌ]
+     genitive              स्याउको [sjäuko]    स्याउहरूको [sjäuʌɾuko]
+     locative              स्याउमा [sjäumä]    स्याउहरूमा [sjäuʌɾumä]
+     Notes:
+         * -को (-ko) becomes:
+               o -का (-kā) when followed by a plural noun.
+               o -की (-kī) when followed by a feminine noun.
+*** Descendants[edit] ***
+    * → Newar:
+**** Further reading[edit] ****
+    * “स्याउ”, inनेपाली बृहत् शब्दकोश (Nepālī Br̥hat Śabdakoś)[Comprehensive
+      Nepali Dictionary], Kathmandu: Nepal_Academy, 2018
+***** Newar[edit] *****
+**** Etymology[edit] ****
+Borrowed from Nepali स्याउ (syāu), from Sanskrit सेवि (sevi).
+**** Pronunciation[edit] ****
+    * IPA(key): [sjau]
+**** Noun[edit] ****
+स्याउ • (syāu) ? (Newa Spelling 𑐳𑑂𑐫𑐵𑐄)
+   1. apple
+Retrieved from "https://en.wiktionary.org/w/
+index.php?title=स्याउ&oldid=71900537"
+Categories:
+    * Nepali_terms_derived_from_Iranian_languages
+    * Nepali_terms_inherited_from_Sanskrit
+    * Nepali_terms_derived_from_Sanskrit
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_nouns
+    * ne:Fruits
+    * Newar_terms_derived_from_Iranian_languages
+    * Newar_terms_borrowed_from_Nepali
+    * Newar_terms_derived_from_Nepali
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Fruits
+Hidden categories:
+    * Nepali_entries_with_topic_categories_using_raw_markup
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/ne
+    * Newar_terms_with_redundant_head_parameter
+    * Newar_entries_with_topic_categories_using_raw_markup
+    * Requests_for_gender_in_Newar_entries
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Azərbaycanca
+    * Français
+    * 한국어
+    * हिन्दी
+    * Kurdî
+    * Malagasy
+    * नेपाली
+    * Polski
+    * Русский
+    * Slovenščina
+    * ไทย
+    * 中文
+    * This page was last edited on 17 March 2023, at 20:32.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

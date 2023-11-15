@@ -1,0 +1,276 @@
+****** या ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: यों, यूँ, यी, यो, य, and ये
+??
+***** Contents *****
+    * 1_Braj
+          o 1.1_Pronoun
+                # 1.1.1_See_also
+    * 2_Hindi
+          o 2.1_Pronunciation
+          o 2.2_Etymology_1
+                # 2.2.1_Conjunction
+          o 2.3_Etymology_2
+                # 2.3.1_Interjection
+    * 3_Nepali
+          o 3.1_Pronunciation
+          o 3.2_Conjunction
+    * 4_Newar
+          o 4.1_Pronunciation
+          o 4.2_Postposition
+    * 5_Pali
+          o 5.1_Alternative_forms
+          o 5.2_Pronoun
+                # 5.2.1_Declension
+    * 6_Sanskrit
+          o 6.1_Alternative_scripts
+          o 6.2_Etymology
+          o 6.3_Pronunciation
+          o 6.4_Noun
+                # 6.4.1_Declension
+          o 6.5_References
+***** Braj[edit] *****
+**** Pronoun[edit] ****
+या (yā)
+   1. oblique of यह (yah)
+            Synonym: इहिं (ihĩ)
+*** See also[edit] ***
+    * इस (is) (hindi eqivalent)
+***** Hindi[edit] *****
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /jɑː/, [jäː]
+**** Etymology 1[edit] ****
+Borrowed from Classical_Persian یا‎ (yā).
+*** Conjunction[edit] ***
+या • (yā) (Urdu spelling یا‎)
+   1. or
+            Synonyms: अथवा (athvā), वा (vā), कि (ki)
+            क्या आपको चाय या कॉफ़ी चाहिए?
+                  kyā āpko cāy yā kŏfī cāhie?
+                  Would you like tea or coffee?
+            कौन बड़ा है, सुमित या सुमन?
+                  kaun baṛā hai, sumit yā suman?
+                  Who's bigger, Sumit or Suman?
+**** Etymology 2[edit] ****
+Borrowed from Arabic يا‎ (yā).
+*** Interjection[edit] ***
+या • (yā) (Urdu spelling یا‎)
+   1. O( vocative particle)
+            Synonyms: (more common) अरे (are), हे (he)
+            या अल्लाह, क्या हो गया है!
+                  yā allāh, kyā ho gayā hai!
+                  O god, what has happened! (Islam)
+***** Nepali[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [jä]
+    * Phonetic Devanagari: या
+**** Conjunction[edit] ****
+या • (yā)
+   1. or
+***** Newar[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [ja]
+**** Postposition[edit] ****
+या • (yā) (Newa Spelling 𑐫𑐵)
+   1. marks the genitive case: of, belonging to
+***** Pali[edit] *****
+**** Alternative forms[edit] ****
+Alternative forms
+    * yā (Latin script)
+    * 𑀬𑀸 (Brahmi script)
+    * যা (Bengali script)
+    * යා (Sinhalese script)
+    * ယာ or ယႃ (Burmese script)
+    * ยา (Thai script)
+    * ᨿᩣ (Tai Tham script)
+    * ຍາ or ຢາ (Lao script)
+    * យា (Khmer script)
+    * 𑄠𑄂 (Chakma script)
+**** Pronoun[edit] ****
+या f
+   1. Devanagari_script form of yā (“who”)
+*** Declension[edit] ***
+Declension table of "या" (feminine)
+Case \ Number        Singular                      Plural
+Nominative (first)   या (yā)                       यायो (yāyo) or या (yā)
+Accusative (second)  यं (yaṃ)                      यायो (yāyo) or या (yā)
+Instrumental (third) याय (yāya)                    याहि (yāhi) or याभि (yābhi)
+Dative (fourth)      याय (yāya) or यस्सा (yassā)   यासं (yāsaṃ) or यासानं
+                                                   (yāsānaṃ)
+Ablative (fifth)     याय (yāya)                    याहि (yāhi) or याभि (yābhi)
+Genitive (sixth)     याय (yāya) or यस्सा (yassā)   यासं (yāsaṃ) or यासानं
+                                                   (yāsānaṃ)
+Locative (seventh)   याय (yāya) or यायं (yāyaṃ) or यासु (yāsu)
+                     यस्सं (yassaṃ)
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬬᬵ (Balinese script)
+    * যা (Assamese script)
+    * যা (Bengali script)
+    * 𑰧𑰯 (Bhaiksuki script)
+    * 𑀬𑀸 (Brahmi script)
+    * 𑌯𑌾 (Grantha script)
+    * યા (Gujarati script)
+    * ਯਾ (Gurmukhi script)
+    * ꦪꦴ (Javanese script)
+    * យា (Khmer script)
+    * ಯಾ (Kannada script)
+    * ຍາ (Lao script)
+    * യാ (Malayalam script)
+    * 𑘧𑘰 (Modi script)
+    * ᠶ᠋ᠠ᠋᠎ᠠ (Mongolian script)
+    * ᠶᠠᢇ (Manchu script)
+    * ယာ (Burmese script)
+    * 𑧇𑧑 (Nandinagari script)
+    * 𑐫𑐵 (Newa script)
+    * ଯା (Oriya script)
+    * ꢫꢵ (Saurashtra script)
+    * 𑆪𑆳 (Sharada script)
+    * 𑖧𑖯 (Siddham script)
+    * යා (Sinhalese script)
+    * యా (Telugu script)
+    * ยา (Thai script)
+    * ཡཱ (Tibetan script)
+    * 𑒨𑒰 (Tirhuta script)
+**** Etymology[edit] ****
+From Proto-Indo-European *yeh₂-.
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /jɑː/
+    * (Classical) IPA(key): /jɑː/
+**** Noun[edit] ****
+या • (yā) f
+   1. going
+   2. a car
+   3. restraining
+   4. religious meditation
+   5. attaining
+   6. pudendum_muliebre
+*** Declension[edit] ***
+                 Feminine ā-stem declension of या (yā)
+                              Singular Dual     Plural
+                 Nominative   याः      यौ       याः
+                              yāḥ      yau      yāḥ
+                 Vocative     याः      यौ       याः
+                              yāḥ      yau      yāḥ
+                 Accusative   याम्     यौ       याः / यः¹
+                              yām      yau      yāḥ / yaḥ¹
+                 Instrumental या       याभ्याम् याभिः
+                              yā       yābhyām  yābhiḥ
+                 Dative       ये       याभ्याम् याभ्यः
+                              ye       yābhyām  yābhyaḥ
+                 Ablative     यः       याभ्याम् याभ्यः
+                              yaḥ      yābhyām  yābhyaḥ
+                 Genitive     यः       योः      यानाम् / याम्¹
+                              yaḥ      yoḥ      yānām / yām¹
+                 Locative     यि       योः      यासु
+                              yi       yoḥ      yāsu
+                 Notes            * ¹Perhaps
+**** References[edit] ****
+    * Monier_Williams (1899), “या”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 849.
+Retrieved from "https://en.wiktionary.org/w/index.php?title=या&oldid=76215662"
+Categories:
+    * Braj_lemmas
+    * Braj_pronouns
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_terms_borrowed_from_Classical_Persian
+    * Hindi_terms_derived_from_Classical_Persian
+    * Hindi_lemmas
+    * Hindi_conjunctions
+    * Hindi_terms_with_usage_examples
+    * Hindi_terms_borrowed_from_Arabic
+    * Hindi_terms_derived_from_Arabic
+    * Hindi_interjections
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_conjunctions
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_postpositions
+    * Newar_postpositions_in_Devanagari_script
+    * Pali_lemmas
+    * Pali_pronouns
+    * Pali_pronouns_in_Devanagari_script
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_feminine_nouns
+    * Sanskrit_ā-stem_nouns
+Hidden categories:
+    * Newar_terms_with_redundant_head_parameter
+    * Pali_terms_with_redundant_head_parameter
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Català
+    * Français
+    * हिन्दी
+    * Kurdî
+    * Lietuvių
+    * Malagasy
+    * Na_Vosa_Vakaviti
+    * Polski
+    * Русский
+    * Gagana_Samoa
+    * संस्कृतम्
+    * Српски_/_srpski
+    * This page was last edited on 27 September 2023, at 09:03.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

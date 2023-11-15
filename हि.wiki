@@ -1,0 +1,250 @@
+****** हि ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Awadhi
+          o 1.1_Etymology
+          o 1.2_Postposition
+    * 2_Khaling
+          o 2.1_Etymology
+          o 2.2_Noun
+          o 2.3_References
+    * 3_Newar
+          o 3.1_Etymology
+          o 3.2_Pronunciation
+          o 3.3_Noun
+    * 4_Sanskrit
+          o 4.1_Alternative_scripts
+          o 4.2_Pronunciation
+          o 4.3_Etymology_1
+                # 4.3.1_Root
+                      # 4.3.1.1_Related_roots
+                      # 4.3.1.2_Derived_terms
+                # 4.3.2_References
+          o 4.4_Etymology_2
+                # 4.4.1_Pronunciation
+                # 4.4.2_Particle
+                      # 4.4.2.1_Descendants
+***** Awadhi[edit] *****
+**** Etymology[edit] ****
+From Sanskrit हि (hí).
+**** Postposition[edit] ****
+हि (hi)
+   1. marks the dative_case: to, for
+            जिन्हाहि ― jinhāhi ― to whom
+***** Khaling[edit] *****
+**** Etymology[edit] ****
+From Proto-Sino-Tibetan *s-hjwəj-t.
+**** Noun[edit] ****
+हि (hi)
+   1. blood
+**** References[edit] ****
+    * “हि”, inखालिङ - नेपाली - अङ्‍ग्रेजी शब्दकोश (Khaling - Nepali - English
+      Dictionary), Nepal: SIL International, 2016.
+***** Newar[edit] *****
+**** Etymology[edit] ****
+From Proto-Sino-Tibetan *s-hjwəj-t.
+**** Pronunciation[edit] ****
+    * IPA(key): [hi]
+**** Noun[edit] ****
+हि • (hi) ? (Newa Spelling 𑐴𑐶)
+   1. blood
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬳᬶ (Balinese script)
+    * হি (Assamese script)
+    * হি (Bengali script)
+    * 𑰮𑰰 (Bhaiksuki script)
+    * 𑀳𑀺 (Brahmi script)
+    * 𑌹𑌿 (Grantha script)
+    * હિ (Gujarati script)
+    * ਹਿ (Gurmukhi script)
+    * ꦲꦶ (Javanese script)
+    * ហិ (Khmer script)
+    * ಹಿ (Kannada script)
+    * ຫິ (Lao script)
+    * ഹി (Malayalam script)
+    * 𑘮𑘱 (Modi script)
+    * ᠾᠢ (Mongolian script)
+    * ᡥᡳ (Manchu script)
+    * ဟိ (Burmese script)
+    * 𑧎𑧒 (Nandinagari script)
+    * 𑐴𑐶 (Newa script)
+    * ହି (Oriya script)
+    * ꢲꢶ (Saurashtra script)
+    * 𑆲𑆴 (Sharada script)
+    * 𑖮𑖰 (Siddham script)
+    * හි (Sinhalese script)
+    * హి (Telugu script)
+    * หิ (Thai script)
+    * ཧི (Tibetan script)
+    * 𑒯𑒱 (Tirhuta script)
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /ɦi/
+    * (Classical) IPA(key): /ɦi/
+**** Etymology 1[edit] ****
+From Proto-Indo-European *ǵʰey- (“to throw, drive, wound”).
+*** Root[edit] ***
+हि • (hi)
+   1. to send forth, impel, urge on, hasten on
+   2. to stimulate or incite to
+** Related roots[edit] **
+    * हिंस् (hiṃs)
+** Derived terms[edit] **
+    * हिनोति (hinóti)
+    * हय (háya)
+    * हित (hitá)
+    * हेतु (hetú)
+    * हेति (hetí)
+ 
+*** References[edit] ***
+    * Monier_Williams (1899), “हि”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 1297,1303.
+    * William_Dwight_Whitney, 1885, The Roots, Verb-forms, and Primary
+      Derivatives of the Sanskrit Language, Leipzig: Breitkopf and Härtel, page
+      205
+    * Otto_Böhtlingk; Richard Schmidt (1879-1928), “हि”, in Walter Slaje,
+      Jürgen Hanneder, Paul Molitor, Jörg Ritter, editors,Nachtragswörterbuch
+      des Sanskrit[Dictionary of Sanskrit with supplements] (in German), Halle-
+      Wittenberg: Martin-Luther-Universität, published 2016
+    * Arthur_Anthony_Macdonell (1893), “हि”, inA practical Sanskrit dictionary
+      with transliteration, accentuation, and etymological analysis throughout,
+      London: Oxford University Press
+    * Mallory,_J._P.; Adams,_D._Q. (2006)The Oxford Introduction to Proto-Indo-
+      European and the Proto-Indo-European World(Oxford Linguistics), New York:
+      Oxford University Press, →ISBN, page 245
+    * Rix,_Helmut, editor (2001)Lexikon_der_indogermanischen_Verben[Lexicon of
+      Indo-European Verbs]‎[1] (in German), 2nd edition, Wiesbaden: Dr. Ludwig
+      Reichert Verlag, →ISBN, pages 174
+    * Pokorny,_Julius (1959), “0424”, inIndogermanisches_etymologisches
+      Wörterbuch[Indo-European Etymological Dictionary] (in German), volume 2,
+      Bern, München: Francke Verlag, page 0424
+**** Etymology 2[edit] ****
+From Proto-Indo-Aryan *źʰí, from Proto-Indo-Iranian *ȷ́ʰí, from Proto-Indo-
+European *ǵʰi.
+*** Pronunciation[edit] ***
+    * (Vedic) IPA(key): /ɦí/
+    * (Classical) IPA(key): /ɦi/
+*** Particle[edit] ***
+हि • (hí)
+   1. for, because, on_account_of (never standing first in a sentence, but
+      generally after the first word and used enclitically, sometimes after
+      pronouns)
+            सर्वो हि पृतना जिगीषति (sárvo hí pṛ́tanā jígīṣati) — for everybody
+            wishes to win battles
+            भवान् हि प्रमाणम् (bhavān hi pramāṇam) — for your honour is the
+            authority
+            तथा हि (tathā hi) — for example; accordingly
+            न हि (ná hí), नहि (nahí) — for not; not at all
+   2. just, pray, do (with an imperative or potential emphatically; sometimes
+      with indicative)
+            पश्यामो हि (paśyāmo hi) — we will just see
+   3. indeed, assuredly, surely, of_course, certainly
+            हि वै (hí vaí) — most assuredly
+            हि – तु (hi – tu), हि – पुनर् (hi – punar) — indeed – but
+   4. often a mere expletive, especially to avoid a hiatus, sometimes repeated
+      in the same sentence; hi is also said to be an interjection of "envy",
+      "contempt", "hurry" etc.
+** Descendants[edit] **
+    * Awadhi: हि (hi)
+Retrieved from "https://en.wiktionary.org/w/index.php?title=हि&oldid=75582222"
+Categories:
+    * Awadhi_terms_derived_from_Sanskrit
+    * Awadhi_lemmas
+    * Awadhi_postpositions
+    * Awadhi_terms_with_usage_examples
+    * Khaling_terms_derived_from_Proto-Sino-Tibetan
+    * Khaling_lemmas
+    * Khaling_nouns
+    * Newar_terms_derived_from_Proto-Sino-Tibetan
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_terms_inherited_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_lemmas
+    * Sanskrit_roots
+    * Sanskrit_terms_inherited_from_Proto-Indo-Aryan
+    * Sanskrit_terms_derived_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-Iranian
+    * Sanskrit_terms_derived_from_Proto-Indo-Iranian
+    * Sanskrit_particles
+    * Sanskrit_adverbs
+    * Sanskrit_prepositions
+Hidden categories:
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Sanskrit_entries_with_language_name_categories_using_raw_markup
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * 한국어
+    * हिन्दी
+    * Kurdî
+    * Malagasy
+    * Русский
+    * संस्कृतम्
+    * Slovenščina
+    * 中文
+    * This page was last edited on 8 August 2023, at 18:46.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

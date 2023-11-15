@@ -1,0 +1,219 @@
+****** स्व ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Newar
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Numeral
+    * 2_Sanskrit
+          o 2.1_Alternative_scripts
+          o 2.2_Etymology
+          o 2.3_Pronunciation
+          o 2.4_Pronoun
+                # 2.4.1_Declension
+          o 2.5_Noun
+                # 2.5.1_Derived_terms
+***** Newar[edit] *****
+**** Etymology[edit] ****
+From Proto-Sino-Tibetan *g-sum.
+**** Pronunciation[edit] ****
+    * IPA(key): [swɔ]
+**** Numeral[edit] ****
+स्व • (swa)
+   1. three
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬲ᭄ᬯ (Balinese script)
+    * স্ব (Assamese script)
+    * স্ব (Bengali script)
+    * 𑰭𑰿𑰪 (Bhaiksuki script)
+    * 𑀲𑁆𑀯 (Brahmi script)
+    * 𑌸𑍍𑌵 (Grantha script)
+    * સ્વ (Gujarati script)
+    * ਸੑਵ (Gurmukhi script)
+    * ꦱ꧀ꦮ (Javanese script)
+    * ស្វ (Khmer script)
+    * ಸ್ವ (Kannada script)
+    * ສ຺ວ (Lao script)
+    * സ്വ (Malayalam script)
+    * 𑘭𑘿𑘪 (Modi script)
+    * ᠰᢦ (Mongolian script)
+    * ᠰᠣᠸᠠ (Manchu script)
+    * သွ (Burmese script)
+    * 𑧍𑧠𑧊 (Nandinagari script)
+    * 𑐳𑑂𑐰 (Newa script)
+    * ସ୍ଵ (Oriya script)
+    * ꢱ꣄ꢮ (Saurashtra script)
+    * 𑆱𑇀𑆮 (Sharada script)
+    * 𑖭𑖿𑖪 (Siddham script)
+    * ස්ව (Sinhalese script)
+    * స్వ (Telugu script)
+    * สฺว (Thai script)
+    * སྭ (Tibetan script)
+    * 𑒮𑓂𑒫 (Tirhuta script)
+**** Etymology[edit] ****
+From Proto-Indo-Aryan *swá, from Proto-Indo-Iranian *swá, from Proto-Indo-
+European *swé (“self”). Cognate with Polish swa f, Avestan 𐬓𐬀‎ (xᵛa), Latin
+suus, Ancient_Greek ἑός (heós), Persian خود‎ (xod), Russian свой (svoj).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /sʋɐ́/
+    * (Classical) IPA(key): /s̪ʋɐ/
+**** Pronoun[edit] ****
+स्व • (svá)
+   1. (possessive) his/her own
+   2. of self
+*** Declension[edit] ***
+            Masculine a-stem declension of स्व (svá)
+                         Singular           Dual       Plural
+            Nominative   स्वः               स्वौ       स्वे / स्वाः
+                         sváḥ               svaú       sve / svāḥ
+            Vocative     स्व                स्वौ       स्वे
+                         svá                svaú       sve
+            Accusative   स्वम्              स्वौ       स्वान्
+                         svám               svaú       svā́n
+            Instrumental स्वेन              स्वाभ्याम् स्वैः
+                         svéna              svā́bhyām  svaíḥ
+            Dative       स्वस्मै            स्वाभ्याम् स्वेभ्यः
+                         svásmai            svā́bhyām  svébhyaḥ
+            Ablative     स्वात् / स्वस्मात् स्वाभ्याम् स्वेभ्यः
+                         svāt / svásmāt     svā́bhyām  svébhyaḥ
+            Genitive     स्वस्य             स्वयोः     स्वेषाम्
+                         svásya             sváyoḥ     sveṣām
+            Locative     स्वे / स्वस्मिन्   स्वयोः     स्वेषु
+                         sve / svásmin      sváyoḥ     svéṣu
+                Feminine ā-stem declension of स्वा (svā)
+                             Singular  Dual       Plural
+                Nominative   स्वाः     स्वौ       स्वाः
+                             svāḥ      svau       svāḥ
+                Vocative     स्वाः     स्वौ       स्वाः
+                             svāḥ      svau       svāḥ
+                Accusative   स्वाम्    स्वौ       स्वाः / स्वः¹
+                             svām      svau       svāḥ / svaḥ¹
+                Instrumental स्वया     स्वाभ्याम् स्वाभिः
+                             sváyā     svābhyām   svābhiḥ
+                Dative       स्वस्यै   स्वाभ्याम् स्वाभ्यः
+                             svásyai   svābhyām   svābhyaḥ
+                Ablative     स्वस्याः  स्वाभ्याम् स्वाभ्यः
+                             svásyāḥ   svābhyām   svābhyaḥ
+                Genitive     स्वस्याः  स्वोः      स्वासाम्
+                             svásyāḥ   svoḥ       svāsām
+                Locative     स्वस्याम् स्वोः      स्वासु
+                             svásyām   svoḥ       svāsu
+                Notes            * ¹Perhaps
+           Neuter a-stem declension of स्व (sva)
+                        Singular           Dual       Plural
+           Nominative   स्वम्              स्वे       स्वानि / स्वा¹
+                        svam               sve        svāni / svā¹
+           Vocative     स्व                स्वे       स्वानि / स्वा¹
+                        sva                sve        svāni / svā¹
+           Accusative   स्वम्              स्वे       स्वानि / स्वा¹
+                        svam               sve        svāni / svā¹
+           Instrumental स्वेन              स्वाभ्याम् स्वैः
+                        svena              svābhyām   svaiḥ
+           Dative       स्वस्मै            स्वाभ्याम् स्वेभ्यः
+                        svásmai            svābhyām   svebhyaḥ
+           Ablative     स्वात् / स्वस्मात् स्वाभ्याम् स्वेभ्यः
+                        svāt / svásmāt     svābhyām   svebhyaḥ
+           Genitive     स्वस्य             स्वयोः     स्वेषाम्
+                        svasya             svayoḥ     sveṣām
+           Locative     स्वे / स्वस्मिन्   स्वयोः     स्वेषु
+                        sve / svásmin      svayoḥ     sveṣu
+           Notes            * ¹Vedic
+**** Noun[edit] ****
+स्व • (svá) m
+   1. one's self
+*** Derived terms[edit] ***
+    * स्वतन्त्र (svátantra, “self-dependent”)
+    * स्वराज (svárāja, “self-rule, sovereignty”)
+    * स्वाभिमान (svā́bhimāna, “self-respect”)
+ 
+Retrieved from "https://en.wiktionary.org/w/index.php?title=स्व&oldid=75017086"
+Categories:
+    * Newar_terms_inherited_from_Proto-Sino-Tibetan
+    * Newar_terms_derived_from_Proto-Sino-Tibetan
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_numerals
+    * Newar_cardinal_numbers
+    * Sanskrit_terms_inherited_from_Proto-Indo-Aryan
+    * Sanskrit_terms_derived_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-Iranian
+    * Sanskrit_terms_derived_from_Proto-Indo-Iranian
+    * Sanskrit_terms_inherited_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_pronouns
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+Hidden categories:
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * हिन्दी
+    * Magyar
+    * Русский
+    * संस्कृतम्
+    * Српски_/_srpski
+    * This page was last edited on 3 July 2023, at 10:56.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]
