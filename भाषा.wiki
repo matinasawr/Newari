@@ -1,0 +1,567 @@
+****** भाषा ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: भीषा
+??
+***** Contents *****
+    * 1_Bhojpuri
+          o 1.1_Etymology
+          o 1.2_Noun
+    * 2_Hindi
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+                # 2.3.1_Declension
+                # 2.3.2_Synonyms
+                # 2.3.3_Derived_terms
+                # 2.3.4_References
+    * 3_Marathi
+          o 3.1_Etymology
+          o 3.2_Pronunciation
+          o 3.3_Noun
+                # 3.3.1_Declension
+                # 3.3.2_Derived_terms
+          o 3.4_References
+    * 4_Nepali
+          o 4.1_Etymology
+          o 4.2_Pronunciation
+          o 4.3_Noun
+                # 4.3.1_Declension
+    * 5_Newar
+          o 5.1_Etymology
+          o 5.2_Pronunciation
+          o 5.3_Noun
+    * 6_Old_Gujarati
+          o 6.1_Etymology
+          o 6.2_Noun
+    * 7_Sanskrit
+          o 7.1_Alternative_scripts
+          o 7.2_Etymology
+          o 7.3_Pronunciation
+          o 7.4_Noun
+                # 7.4.1_Declension
+                # 7.4.2_Derived_terms
+                # 7.4.3_Descendants
+          o 7.5_References
+***** Bhojpuri[edit] *****
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भाषा (bhāṣā).
+**** Noun[edit] ****
+भाषा (bhāṣā) f (Kaithi 𑂦𑂰𑂭𑂰)
+   1. language
+            भोजपुरी भाषा ― bhojapurī bhāṣā ― Bhojpuri language
+***** Hindi[edit] *****
+Hindi Wikipedia has an article on:
+भाषा
+Wikipedia_hi
+**** Etymology[edit] ****
+Borrowed from Sanskrit भाषा (bhāṣā).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /bʱɑː.ʂɑː/, [bʱäː.ʃäː]
+**** Noun[edit] ****
+भाषा • (bhāṣā) f (Urdu spelling بھاشا‎)
+   1. language, speech, dialect
+            संस्कृत बहुत समृद्ध भाषा है।
+                  sanskŕt bahut samŕddh bhāṣā hai.
+                  Sanskrit is a very rich language.
+            वह भाषा की उत्पत्ति पर खोज कर रहा है।
+                  vah bhāṣā kī utpatti par khoj kar rahā hai.
+                  He is doing research on the origins of language
+*** Declension[edit] ***
+Declension of भाषा (fem ā-stem)
+                                    singular plural
+                           direct   भाषा     भाषाएँ
+                                    bhāṣā    bhāṣāẽ
+                           oblique  भाषा     भाषाओं
+                                    bhāṣā    bhāṣāõ
+                           vocative भाषा     भाषाओ
+                                    bhāṣā    bhāṣāo
+*** Synonyms[edit] ***
+    * ज़बान (zabān)
+    * बोली (bolī)
+*** Derived terms[edit] ***
+    * देशभाषा (deśbhāṣā)
+    * परिभाषा (paribhāṣā)
+    * भारतीय_आर्य_भाषा (bhārtīya ārya bhāṣā)
+    * भाषा-परिवार (bhāṣā-parivār)
+    * भाषांतर (bhāṣāntar)
+    * भाषांतरकार (bhāṣāntarkār)
+    * भाषागत (bhāṣāgat)
+    * भाषाविज्ञान (bhāṣāvigyān)
+    * भाषावैज्ञानिक (bhāṣāvaigyānik)
+    * मातृभाषा (mātŕbhāṣā)
+    * राष्ट्रभाषा (rāṣṭrabhāṣā)
+ 
+*** References[edit] ***
+    * Platts,_John_T. (1884), “भाषा”, inA dictionary of Urdu, classical Hindi,
+      and English, London: W. H. Allen & Co.
+***** Marathi[edit] *****
+Marathi Wikipedia has an article on:
+भाषा
+Wikipedia_mr
+**** Etymology[edit] ****
+Borrowed from Sanskrit भाषा (bhāṣā).
+**** Pronunciation[edit] ****
+    * IPA(key): /bʱa.ʂa/
+**** Noun[edit] ****
+भाषा • (bhāṣā) f
+   1. language
+            Synonym: बोली (bolī)
+            इंग्रजी एक जागतिक भाषा आहे.
+                  iṅgrajī ek jāgtik bhāṣā āhe.
+                  English is a global language.
+*** Declension[edit] ***
+   Declension of भाषा (bhāṣā)
+   direct       भाषा
+   singular     bhāṣā
+   direct       भाषा
+   plural       bhāṣā
+                singular  plural
+   nominative   भाषा      भाषा
+                bhāṣā     bhāṣā
+   oblique      भाषे-     भाषां-
+                bhāṣe-    bhāṣāN-
+   dative       भाषेला    भाषांना
+                bhāṣelā   bhāṣāNnā
+   ergative     भाषेने    भाषांनी
+                bhāṣene   bhāṣāNni
+   instrumental भाषेशी    भाषांशी
+                bhāṣeśi   bhāṣāNśi
+   locative     भाषेत     भाषांत
+                bhāṣet    bhāṣāNt
+   vocative     भाषे      भाषांनो
+                bhāṣe     bhāṣāNno
+   Oblique Note: The oblique case precedes all postpositions.
+   There is no space between the stem and the postposition.
+   Dative Note: -स (-sa) is archaic. -ते (-te) is limited to literary usage.
+   Locative Note: -त (-ta) is a postposition.
+  Genitive declension of भाषा
+           masculine object  feminine object    neuter object      oblique
+           singular plural   singular plural    singular* plural
+                                                भाषेचे,
+  singular भाषेचा   भाषेचे   भाषेची   भाषेच्या  भाषेचं    भाषेची   भाषेच्या
+  subject  bhāṣeċā  bhāṣece  bhāṣeci  bhāṣeca   bhāṣece,  bhāṣeci  bhāṣeca
+                                                bhāṣeċa
+                                                भाषांचे,
+  plural   भाषांचा  भाषांचे  भाषांची  भाषांच्या भाषांचं   भाषांची  भाषांच्या
+  subject  bhāṣāNċā bhāṣāNce bhāṣāNci bhāṣāNca  bhāṣāNce, bhāṣāNci bhāṣāNca
+                                                bhāṣāNċa
+  * Note: Word-final ए (e) in neuter words is alternatively written with the
+  anusvara and pronounced as अ (a).
+  Oblique Note: For most postpostions, the oblique genitive can be
+  optionally inserted between the stem and the postposition.
+*** Derived terms[edit] ***
+    * अधिकृत_भाषा (adhikrut bhāṣā, “official_language”)
+    * जन्मभाषा (janmabhāṣā)
+    * देवभाषा (devbhāṣā, “Gods' language”)
+    * बालभाषा (bālbhāṣā)
+    * बोलीभाषा (bolībhāṣā, “colloquial language”)
+    * भाषांतर (bhāṣāntar, “translation”)
+    * भाषांतरकार (bhāṣāntarkār, “translator”)
+    * भाषाकुळ (bhāṣākuḷ, “language_family”)
+    * भाषाविज्ञान (bhāṣāvidnyān, “linguistics”)
+    * भाषावैज्ञानिक (bhāṣāvaidnyānik, “linguist”)
+    * भाषाशैली (bhāṣāśailī)
+    * मातृभाषा (mātrubhāṣā, “mother_tongue”)
+    * राज्यभाषा (rājyabhāṣā, “state language”)
+    * राष्ट्रभाषा (rāṣṭrabhāṣā, “national language”)
+    * संस्कृत_भाषा (sauskrut bhāṣā, “Sanskrit language”)
+ 
+**** References[edit] ****
+    * Berntsen, Maxine, “भाषा”, in A Basic Marathi-English Dictionary, New
+      Delhi: American Institute of Indian Studies, 1982-1983.
+    * Molesworth,_James_Thomas (1857), “भाषा”, inA dictionary, Marathi and
+      English, Bombay: Printed for government at the Bombay Education Society's
+      Press
+    * Shridhar Ganesh Vaze (1911), “भाषा”, inThe Aryabhusan School Dictionary,
+      Poona: Arya-Bhushan Press
+***** Nepali[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit भाषा (bhāṣā).
+**** Pronunciation[edit] ****
+    * IPA(key): [bʱä̤sä]
+    * Phonetic Devanagari: भासा
+**** Noun[edit] ****
+भाषा • (bhāṣā)
+   1. language
+            Synonym: कुरा (kurā)
+*** Declension[edit] ***
+     Declension of भाषा
+                           Singular            Plural
+     nominative            भाषा [bʱäsä]        भाषाहरू [bʱäsä̤ːɾu]
+     accusative            भाषालाई [bʱäsäläi]  भाषाहरूलाई [bʱäsä̤ːɾuläi]
+     instrumental/ergative भाषाले [bʱäsäle]    भाषाहरूले [bʱäsä̤ːɾule]
+     dative                भाषालाई [bʱäsäläi]  भाषाहरूलाई [bʱäsä̤ːɾuläi]
+     ablative              भाषाबाट [bʱäsäbäʈʌ] भाषाहरूबाट [bʱäsä̤ːɾubäʈʌ]
+     genitive              भाषाको [bʱäsäko]    भाषाहरूको [bʱäsä̤ːɾuko]
+     locative              भाषामा [bʱäsämä]    भाषाहरूमा [bʱäsä̤ːɾumä]
+     Notes:
+         * -को (-ko) becomes:
+               o -का (-kā) when followed by a plural noun.
+               o -की (-kī) when followed by a feminine noun.
+***** Newar[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit भाषा (bhāṣā).
+**** Pronunciation[edit] ****
+    * IPA(key): [bʱasa]
+**** Noun[edit] ****
+भाषा • (bhāṣā)
+   1. language
+***** Old Gujarati[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit भाषा (bhāṣā).
+**** Noun[edit] ****
+भाषा • (bhāṣā) f
+   1. talk, utterance
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬪᬵᬱᬵ (Balinese script)
+    * ভাষা (Assamese script)
+    * ভাষা (Bengali script)
+    * 𑰥𑰯𑰬𑰯 (Bhaiksuki script)
+    * 𑀪𑀸𑀱𑀸 (Brahmi script)
+    * 𑌭𑌾𑌷𑌾 (Grantha script)
+    * ભાષા (Gujarati script)
+    * ਭਾਸ਼ਾ (Gurmukhi script)
+    * ꦨꦴꦰꦴ (Javanese script)
+    * ភាឞា (Khmer script)
+    * ಭಾಷಾ (Kannada script)
+    * ຠາຩາ (Lao script)
+    * ഭാഷാ (Malayalam script)
+    * 𑘥𑘰𑘬𑘰 (Modi script)
+    * ᠪᠾᠠᢗᢔᠠ᠋᠎ᠠ (Mongolian script)
+    * ᢨᠠ᠎᠊ᠠᢢᠠᢇ (Manchu script)
+    * ဘာၑာ (Burmese script)
+    * 𑧅𑧑𑧌𑧑 (Nandinagari script)
+    * 𑐨𑐵𑐲𑐵 (Newa script)
+    * ଭାଷା (Oriya script)
+    * ꢩꢵꢰꢵ (Saurashtra script)
+    * 𑆨𑆳𑆰𑆳 (Sharada script)
+    * 𑖥𑖯𑖬𑖯 (Siddham script)
+    * භාෂා (Sinhalese script)
+    * భాషా (Telugu script)
+    * ภาษา (Thai script)
+    * བྷཱ་ཥཱ (Tibetan script)
+    * 𑒦𑒰𑒭𑒰 (Tirhuta script)
+**** Etymology[edit] ****
+Inherited from Proto-Indo-Aryan *bʰáHṣaH, from Proto-Indo-Iranian *bʰáHšaH
+(“language”), from Proto-Indo-European *bʰeh₂-. Cognate with Latin fās. Related
+to the verb भाषति (bhāṣati). Or Derived from Proto-Indo-European *bʰel-s- (“to
+sound”). Cognate with Lithuanian balsas and Latvian balss.
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /bʱɑ́ː.ʂɑː/
+    * (Classical) IPA(key): /ˈbʱɑː.ʂɑː/
+**** Noun[edit] ****
+भाषा • (bhā́ṣā) f
+   1. speech, language (especially common, vernacular or vulgar speech, as
+      opposed to Vedic or in later times to Sanskrit, as the refined speech)
+   2. any Prakrit dialect or a particular group of 5 of them (namely
+      माहाराष्ट्री (māhārāṣṭrī), शौरसेनी (śaurasenī), मागध (māgadha), प्राच्या
+      (prācyā) and अवन्ति (avanti), also called पञ्चविधा (pañcavidhā))
+   3. description, definition
+   4. (law) accusation, charge, complaint, plaint
+   5. name of Saraswati
+   6. (music) name of रागिणी (rāgiṇī)
+*** Declension[edit] ***
+            Feminine ā-stem declension of भाषा (bhā́ṣā)
+                         Singular           Dual        Plural
+            Nominative   भाषा               भाषे        भाषाः
+                         bhā́ṣā             bhā́ṣe      bhā́ṣāḥ
+            Vocative     भाषे               भाषे        भाषाः
+                         bhā́ṣe             bhā́ṣe      bhā́ṣāḥ
+            Accusative   भाषाम्             भाषे        भाषाः
+                         bhā́ṣām            bhā́ṣe      bhā́ṣāḥ
+            Instrumental भाषया / भाषा¹      भाषाभ्याम्  भाषाभिः
+                         bhā́ṣayā / bhā́ṣā¹ bhā́ṣābhyām bhā́ṣābhiḥ
+            Dative       भाषायै             भाषाभ्याम्  भाषाभ्यः
+                         bhā́ṣāyai          bhā́ṣābhyām bhā́ṣābhyaḥ
+            Ablative     भाषायाः            भाषाभ्याम्  भाषाभ्यः
+                         bhā́ṣāyāḥ          bhā́ṣābhyām bhā́ṣābhyaḥ
+            Genitive     भाषायाः            भाषयोः      भाषाणाम्
+                         bhā́ṣāyāḥ          bhā́ṣayoḥ   bhā́ṣāṇām
+            Locative     भाषायाम्           भाषयोः      भाषासु
+                         bhā́ṣāyām          bhā́ṣayoḥ   bhā́ṣāsu
+            Notes            * ¹Vedic
+*** Derived terms[edit] ***
+    * देवभाषा (devabhāṣā)
+    * पालिभाषा (pālibhāṣā)
+    * भाषाकुमुदमञ्जरी (bhāṣākumudamañjarī)
+    * भाषाकौमुदी (bhāṣākaumudī)
+    * भाषाचित्रक (bhāṣācitraka)
+    * भाषाज्ञ (bhāṣājña)
+    * भाषानुशासन (bhāṣānuśāsana)
+    * भाषान्तर (bhāṣāntara)
+    * भाषापरिच्छेद (bhāṣāpariccheda)
+    * भाषापाद (bhāṣāpāda)
+    * भाषाप्रकाशिका (bhāṣāprakāśikā)
+    * भाषामञ्जरी (bhāṣāmañjarī)
+    * भाषारत्न (bhāṣāratna)
+    * भाषार्णव (bhāṣārṇava)
+    * भाषालीलावती (bhāṣālīlāvatī)
+    * भाषाविवृतिगीता (bhāṣāvivṛtigītā)
+    * भाषावृत्ति (bhāṣāvṛtti)
+    * भाषावृत्त्यर्थवृत्ति (bhāṣāvṛttyarthavṛtti)
+    * भाषासम (bhāṣāsama)
+    * भाषासमिति (bhāṣāsamiti)
+ 
+*** Descendants[edit] ***
+Terms inherited from भाषा (bhāṣā)
+    * Prakrit: 𑀪𑀸𑀲𑀸 (bhāsā)
+    * Dardic:
+          o Dameli: [script needed] (bâṣa, “language”)
+    * Shina: بݜ‎ (baṣ)
+    * → Domaaki: [script needed] (bāṣ)
+Eastern:
+    * Bengali: ভাস (bhaś)
+Bihari:
+    * Maithili: भास (bhās)
+Chakma: 𑄞𑄌𑄴 (bhāc)
+Northern:
+    * Garhwali: भाख (bhākh)
+Kumaoni: भाश
+Nepali: भास (bhās)
+Southern:
+    * Elu Prakrit:
+          o Dhivehi: ބަސް‎ (bas, “language”)
+Sinhalese: බහ (baha, “word, saying”)
+Maharashtri Prakrit:
+    * Konkani: भास (bhās)
+Central:
+    * Chhattisgarhi: भाखा (bhākhā)
+Terms borrowed from भाषा (bhāṣā)
+    * Pali: bhāsā
+          o → Balinese: ᬪᬵᬱ (bhāṣa)
+→ Burmese: ဘာသာ (bhasa)
+→ Indonesian: bahasa
+→ Isan: ภาษา (páa-sǎa)
+→ Javanese: ꦧꦱ (basa)
+→ Khmer: ភាសា (phiəsaa)
+→ Khün: ᨽᩣᩈᩣ
+→ Northern Thai: ᨽᩣᩈᩣ
+→ Lao: ພາສາ (phā sā)
+→ Lü: ᦘᦱᦉᦱ (phaaṡaa)
+→ Mon: ဘာသာ (pʰesa)
+→ Northern Thai: ᨽᩣᩇᩣ (bhasa)
+→ Shan: ၽႃႇသႃႇ (phàa sàa)
+→ Thai: ภาษา (paa-sǎa)
+→ Acehnese: بهسا‎ (bahsa)
+→ Assamese: ভাষা (bhaxa)
+→ Badaga: பாஷை (pāṣai)
+→ Balinese: ᬩᬲ (basa)
+→ Banjarese: بهاس‎ (bahasa)
+→ Bengali: ভাষা (bhaśa)
+→ Betawi: bahasa
+→ Buginese: ᨅᨔ (basa)
+→ Cia-Cia: bahasa
+ / 바하사 (bahasa)
+→ Dogri: bhāśā
+→ Fiji Hindi: भाषा (bhāṣā), bhasa
+→ Gujarati: ભાષા (bhāṣā)
+→ Hindi: भाषा (bhāṣā)
+→ Ilocano: basa
+→ Kachchi: ભાષા (bhāṣā) (learned)
+→ Kannada: ಭಾಷೆ (bhāṣe)
+→ Old Javanese: bhāṣa
+    * Javanese: ꦧꦱ (basa)
+→ Balinese: ᬪᬵᬱ (basa)
+→ Madurese: بَهاسَ‎ (basa)
+→ Maguindanao: bahasah
+→ Makasar: ᨅᨔ (basa)
+→ Malay: bahasa (بهاس)
+    * Indonesian: bahasa, basa
+          o → Dutch: bahasa
+→ English: Bahasa
+ (with Malay bahasa)
+→ English: Bahasa
+ (with Indonesian bahasa)
+Pattani Malay: بهاس‎ (bahasa)
+→ Malayalam: ഭാഷ (bhāṣa)
+→ Marathi: भाषा (bhāṣā)
+→ Maranao: basa
+→ Minangkabau: باسو‎ (baso)
+→ Nepali: भाषा (bhāṣā)
+→ Newar: भाषा (bhāṣā)
+→ Northern Khmer: พซา
+→ Oriya: ଭାଷା (bhaṣa)
+→ Punjabi: ਭਾਸ਼ਾ (bhāśā)
+→ Sinhalese: භාෂාව (bhāṣāwa)
+→ Sundanese: ᮘᮞ (basa)
+→ Tamil: பாஷை (pāṣai), பாசை (pācai)
+→ Tausug: bahasa
+→ Telugu: భాష (bhāṣa)
+→ Tulu: ಬಾಸೆ (bāse)
+→ Urdu: بھاشا‎ (bhāśā)
+→ Yakan: bahasa
+→ Proto-Nuristani:
+    * Waigali: [script needed] (bāṣ, “word”)
+**** References[edit] ****
+    * Monier_Williams (1899), “भाषा”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 0755.
+    * Turner,_Ralph_Lilley (1969–1985), “bhasa”, inA Comparative Dictionary of
+      the Indo-Aryan Languages, London: Oxford University Press, page 540
+Retrieved from "https://en.wiktionary.org/w/
+index.php?title=भाषा&oldid=76258120"
+Categories:
+    * Bhojpuri_terms_borrowed_from_Sanskrit
+    * Bhojpuri_learned_borrowings_from_Sanskrit
+    * Bhojpuri_terms_derived_from_Sanskrit
+    * Bhojpuri_lemmas
+    * Bhojpuri_nouns
+    * Bhojpuri_nouns_in_Devanagari_script
+    * Bhojpuri_feminine_nouns
+    * Bhojpuri_terms_with_usage_examples
+    * Hindi_terms_derived_from_Proto-Indo-European
+    * Hindi_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(speak)
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_feminine_nouns
+    * Hindi_terms_with_usage_examples
+    * Hindi_feminine_ā-stem_nouns
+    * Marathi_terms_borrowed_from_Sanskrit
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_terms_with_IPA_pronunciation
+    * Marathi_lemmas
+    * Marathi_nouns
+    * Marathi_nouns_in_Devanagari_script
+    * Marathi_feminine_nouns
+    * Marathi_terms_with_usage_examples
+    * Marathi_nouns_with_declension
+    * mr:Language
+    * Nepali_terms_borrowed_from_Sanskrit
+    * Nepali_terms_derived_from_Sanskrit
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_nouns
+    * Newar_terms_borrowed_from_Sanskrit
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Old_Gujarati_terms_borrowed_from_Sanskrit
+    * Old_Gujarati_terms_derived_from_Sanskrit
+    * Old_Gujarati_lemmas
+    * Old_Gujarati_nouns
+    * Old_Gujarati_feminine_nouns
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_the_Proto-Indo-European_root_*bʰeh₂-_(speak)
+    * Sanskrit_terms_belonging_to_the_root_भाष्
+    * Sanskrit_terms_inherited_from_Proto-Indo-Aryan
+    * Sanskrit_terms_derived_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-Iranian
+    * Sanskrit_terms_derived_from_Proto-Indo-Iranian
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_feminine_nouns
+    * sa:Law
+    * sa:Music
+    * Sanskrit_ā-stem_nouns
+Hidden categories:
+    * Bhojpuri_terms_with_redundant_head_parameter
+    * Marathi_entries_with_topic_categories_using_raw_markup
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/ne
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+    * Requests_for_native_script_for_Dameli_terms
+    * Requests_for_native_script_for_Domaaki_terms
+    * Terms_with_redundant_transliterations/ccp
+    * Terms_with_redundant_transliterations/hne
+    * Terms_with_redundant_transliterations/new
+    * Terms_with_redundant_transliterations/ur
+    * Requests_for_native_script_for_Waigali_terms
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Azərbaycanca
+    * Deutsch
+    * Eesti
+    * Español
+    * Esperanto
+    * Français
+    * 한국어
+    * हिन्दी
+    * Hrvatski
+    * Bahasa_Indonesia
+    * Italiano
+    * कॉशुर_/_کٲشُر
+    * Кыргызча
+    * ລາວ
+    * Lietuvių
+    * Magyar
+    * Malagasy
+    * मराठी
+    * ဘာသာ_မန်
+    * Na_Vosa_Vakaviti
+    * Nederlands
+    * नेपाली
+    * 日本語
+    * Occitan
+    * Polski
+    * Русский
+    * Gagana_Samoa
+    * संस्कृतम्
+    * Slovenščina
+    * தமிழ்
+    * ไทย
+    * Türkçe
+    * 中文
+    * This page was last edited on 3 October 2023, at 12:56.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

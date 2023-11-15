@@ -1,0 +1,187 @@
+****** ने ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: ऩ, न, नृ, नै, and ন
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Postposition
+                # 1.3.1_Usage_notes
+                # 1.3.2_Derived_terms
+          o 1.4_References
+    * 2_Newar
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Numeral
+    * 3_Pali
+          o 3.1_Alternative_forms
+          o 3.2_Adjective
+          o 3.3_Pronoun
+***** Hindi[edit] *****
+**** Etymology[edit] ****
+    * Borrowed from Haryanvi नै (nai) (or a Rajasthani language), from
+      Sauraseni_Apabhramsa कण्णही, from Sanskrit कर्णे (karṇe), locative
+      singular of कर्ण (karṇa, “ear”). This is the more widely accepted
+      etymology currently, because (1) it is phonologically sound, (2) it
+      accounts for the late occurrence of ने (ne) in Hindi and its lack in Old
+      Hindi, and (3) it follows the pattern of postpositions being derived from
+      the locative forms of terms for body parts, e.g. को (ko, dative postp.) <
+      Sanskrit कक्ष (kakṣa, “armpit”).[1][2][3]
+    * Possibly from Sanskrit -एन (-ena, instrumental case marker). This case
+      suffix serves the same function as Hindi ने (ne) when used with past
+      participles in Sanskrit. However the splitting of a case marker into a
+      postposition does not occur elsewhere in Indo-Aryan and it is
+      phonologically implausible since Sauraseni_Prakrit has -𑀏𑀁 (-eṃ).[2]
+            Sanskrit: कृष्णेन कृतम् । ― kṛṣṇena kṛtam . ― Krishna did it.
+            Hindi: कृष्ण ने किया। ― kṛṣṇa ne kiyā. ― Krishna did it.
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /neː/, [n̪eː]
+**** Postposition[edit] ****
+ने • (ne) (Urdu spelling نے‎)
+   1. marker of the ergative_case with perfective-aspect transitive verbs
+            लड़के ने किताब ख़रीदी।
+                  laṛke ne kitāb xarīdī.
+                  The boy bought a book.
+            लड़कों ने किताबें ख़रीदीं।
+                  laṛkõ ne kitābẽ xarīdī̃.
+                  The boys bought books.
+*** Usage notes[edit] ***
+Some Eastern_Hindi dialects do not mark the ergative case at all.
+*** Derived terms[edit] ***
+    * आपने (āpne)
+    * इन्होंने (inhonne)
+    * इसने (isne)
+    * उन्होंने (unhonne)
+    * उसने (usne)
+    * किसने (kisne)
+    * जिसने (jisne)
+    * तुमने (tumne)
+    * तूने (tūne)
+    * मैंने (mainne)
+    * हमने (hamne)
+ 
+**** References[edit] ****
+   1. ^_Butt, Miriam; Ahmed, Tafseer (2011), “The redevelopment of Indo-Aryan
+      case systems from a lexical semantic perspective”, inMorphology, volume
+      21, issue 3, pages 545–572
+   2. ↑ 2.0 2.1 Reinöhl, Uta (2016), “The diverse origins of the Hindi simple
+      postpositions”, inGrammaticalization and the Rise of Configurationality
+      in Indo-Aryan, →ISBN
+   3. ^_Chatterji,_Suniti_Kumar (1942)Indo-Aryan and Hindi‎[1], University of
+      Calcutta, page 118
+***** Newar[edit] *****
+**** Etymology[edit] ****
+From Proto-Sino-Tibetan *g-ni-s_~_s-ni-s.
+**** Pronunciation[edit] ****
+    * IPA(key): [ne]
+**** Numeral[edit] ****
+ने • (ne)
+   1. two
+***** Pali[edit] *****
+**** Alternative forms[edit] ****
+Alternative forms
+    * ne (Latin script)
+    * 𑀦𑁂 (Brahmi script)
+    * নে (Bengali script)
+    * නෙ (Sinhalese script)
+    * နေ or ၼေ (Burmese script)
+    * เน (Thai script)
+    * ᨶᩮ (Tai Tham script)
+    * ເນ (Lao script)
+    * នេ (Khmer script)
+    * 𑄚𑄬 (Chakma script)
+**** Adjective[edit] ****
+ने
+   1. Devanagari_script form of ne, which is accusative plural masculine of न
+      (na, “that”)
+**** Pronoun[edit] ****
+ने
+   1. Devanagari_script form of ne, which is accusative plural of न (na, “him,
+      it, that”)
+Retrieved from "https://en.wiktionary.org/w/index.php?title=ने&oldid=76134405"
+Categories:
+    * Hindi_terms_borrowed_from_Haryanvi
+    * Hindi_terms_derived_from_Haryanvi
+    * Hindi_terms_derived_from_Sauraseni_Apabhramsa
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_inherited_from_Sanskrit
+    * Sanskrit_terms_with_usage_examples
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_postpositions
+    * Hindi_terms_with_usage_examples
+    * Newar_terms_inherited_from_Proto-Sino-Tibetan
+    * Newar_terms_derived_from_Proto-Sino-Tibetan
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_numerals
+    * Newar_cardinal_numbers
+    * Pali_non-lemma_forms
+    * Pali_adjective_forms
+    * Pali_adjective_forms_in_Devanagari_script
+    * Pali_pronoun_forms
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Català
+    * हिन्दी
+    * Magyar
+    * Malagasy
+    * Русский
+    * Српски_/_srpski
+    * This page was last edited on 16 September 2023, at 09:00.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

@@ -1,0 +1,572 @@
+****** भारत ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: भुरति, भरति, भ्राता, भारती, and भ्रातृ
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Proper_noun
+                # 1.3.1_Derived_terms
+                # 1.3.2_Descendants
+          o 1.4_References
+    * 2_Kashmiri
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Proper_noun
+                # 2.3.1_Usage_notes
+          o 2.4_Further_reading
+    * 3_Konkani
+          o 3.1_Etymology
+          o 3.2_Pronunciation
+          o 3.3_Proper_noun
+    * 4_Marathi
+          o 4.1_Etymology
+          o 4.2_Pronunciation
+          o 4.3_Proper_noun
+                # 4.3.1_Declension
+                # 4.3.2_Derived_terms
+          o 4.4_Further_reading
+    * 5_Nepali
+          o 5.1_Etymology
+          o 5.2_Pronunciation
+          o 5.3_Proper_noun
+                # 5.3.1_Declension
+    * 6_Newar
+          o 6.1_Etymology
+          o 6.2_Pronunciation
+          o 6.3_Proper_noun
+    * 7_Sanskrit
+          o 7.1_Alternative_scripts
+          o 7.2_Etymology
+          o 7.3_Pronunciation
+          o 7.4_Adjective
+                # 7.4.1_Declension
+          o 7.5_Noun
+                # 7.5.1_Declension
+          o 7.6_Noun
+                # 7.6.1_Declension
+                # 7.6.2_Descendants
+          o 7.7_References
+***** Hindi[edit] *****
+[//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/
+India_%28orthographic_projection%29.svg/220px-
+India_%28orthographic_projection%29.svg.png]भारत
+[//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/14px-
+Wikipedia-logo.png]
+ भारत on Hindi Wikipedia
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भारत (bhārata).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /bʱɑː.ɾət̪/, [bʱäː.ɾət̪]
+Audio  (file)
+**** Proper noun[edit] ****
+भारत • (bhārat) m (Urdu spelling بھارت‎)
+   1. India (a country in South_Asia)
+            Synonyms: इंडिया (iṇḍiyā), हिंदुस्तान (hindustān), भारतवर्ष
+            (bhāratvarṣ)
+            Hypernyms: एशिया (eśiyā), दक्षिण_एशिया (dakṣiṇ eśiyā)
+*** Derived terms[edit] ***
+    * भारतीय (bhārtīya)
+    * भारवर्ष (bhārvarṣ)
+*** Descendants[edit] ***
+    * → English: Bharat
+→ Esperanto: Barato
+→ Portuguese: Bharat
+**** References[edit] ****
+    * McGregor,_Ronald_Stuart (1993), “भारत”, inThe Oxford Hindi-English
+      Dictionary, London: Oxford University Press
+***** Kashmiri[edit] *****
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भारत (bhārata).
+**** Pronunciation[edit] ****
+    * IPA(key): /bʰaːrat/
+**** Proper noun[edit] ****
+भारत • (bhārat) m (Perso-Arabic بھارَت)
+   1. (rare, formal) India (a country in South_Asia)
+            Synonyms: हिन्दोस्तान (hindōstān), इंडिया (iṃḍiyā)
+*** Usage notes[edit] ***
+    * The sound /bʰ/ does not exist in Kashmiri, this word is only used in very
+      official or formal settings.
+**** Further reading[edit] ****
+    * S. K. Toshakhani; J. Lal Kaul; Mohiuddin_Hajni; Prithvi Nath Pushp;
+      Akhtar_Mohiuddin (1968-1980)Kashir Dictionary Vol 1‎[1] (in Kashmiri),
+      Jammu_and_Kashmir_Academy_of_Art,_Culture_and_Languages, page 377
+***** Konkani[edit] *****
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भारत (bhārata). Compare Old_Marathi 𑘥𑘨𑘝
+(bharata), 𑘥𑘰𑘨𑘝 (bhārata), 𑘥𑘰𑘨𑘞 (bhāratha).
+**** Pronunciation[edit] ****
+    * IPA(key): /ˈbʱaː.ɽɘ.t̪ɘ/
+**** Proper noun[edit] ****
+भारत • (bhārat) (Latin script Bharot, Kannada script ಭಾರತ)
+   1. India (a country in South_Asia)
+***** Marathi[edit] *****
+[//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/
+India_%28orthographic_projection%29.svg/220px-
+India_%28orthographic_projection%29.svg.png]भारत
+[//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/14px-
+Wikipedia-logo.png]
+ भारत on Marathi Wikipedia
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भारत (bhārata). Compare Old_Marathi 𑘥𑘨𑘝
+(bharata), 𑘥𑘰𑘨𑘝 (bhārata), 𑘥𑘰𑘨𑘞 (bhāratha).
+**** Pronunciation[edit] ****
+    * IPA(key): /bʱa.ɾət̪/
+**** Proper noun[edit] ****
+भारत • (bhārat) m
+   1. India (a country in South_Asia)
+            Synonyms: इंडिया (iṇḍiyā), हिंदुस्थान (hindusthān)
+            Hypernyms: आशिया (āśiyā), दक्षिण_आशिया (dakṣiṇ āśiyā)
+*** Declension[edit] ***
+   Declension of भारत (bhārat)
+   direct       भारत
+   singular     bhārat
+   direct       भारत
+   plural       bhārat
+                singular   plural
+   nominative   भारत       भारत
+                bhārat     bhārat
+   oblique      भारता-     भारतां-
+                bhāratā-   bhāratāN-
+   dative       भारताला    भारतांना
+                bhāratālā  bhāratāNnā
+   ergative     भारताने    भारतांनी
+                bhāratāne  bhāratāNni
+   instrumental भारताशी    भारतांशी
+                bhāratāśi  bhāratāNśi
+   locative     भारतात     भारतांत
+                bhāratāt   bhāratāNt
+   vocative     भारता      भारतांनो
+                bhāratā    bhāratāNno
+   Oblique Note: The oblique case precedes all postpositions.
+   There is no space between the stem and the postposition.
+   Dative Note: -स (-sa) is archaic. -ते (-te) is limited to literary usage.
+   Locative Note: -त (-ta) is a postposition.
+Genitive declension of भारत
+         masculine object      feminine object       neuter object          oblique
+         singular   plural     singular   plural     singular*   plural
+                                                     भारताचे,
+singular भारताचा    भारताचे    भारताची    भारताच्या  भारताचं     भारताची    भारताच्या
+subject  bhāratāċā  bhāratāce  bhāratāci  bhāratāca  bhāratāce,  bhāratāci  bhāratāca
+                                                     bhāratāċa
+                                                     भारतांचे,
+plural   भारतांचा   भारतांचे   भारतांची   भारतांच्या भारतांचं    भारतांची   भारतांच्या
+subject  bhāratāNċā bhāratāNce bhāratāNci bhāratāNca bhāratāNce, bhāratāNci bhāratāNca
+                                                     bhāratāNċa
+* Note: Word-final ए (e) in neuter words is alternatively written with the anusvara
+and pronounced as अ (a).
+Oblique Note: For most postpostions, the oblique genitive can be optionally inserted
+between the stem and the postposition.
+*** Derived terms[edit] ***
+    * भारतीय (bhāratīya, “indian”)
+**** Further reading[edit] ****
+    * Berntsen, Maxine, “भारत”, in A Basic Marathi-English Dictionary, New
+      Delhi: American Institute of Indian Studies, 1982-1983.
+    * Molesworth,_James_Thomas (1857), “भारत”, inA dictionary, Marathi and
+      English, Bombay: Printed for government at the Bombay Education Society's
+      Press
+    * Date, Yasavanta Ramakrshna (1932-1950), “भारत”, inMaharashtra Sabdakosa
+      (in Marathi), Pune: Maharashtra Kosamandala.
+***** Nepali[edit] *****
+[//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/14px-
+Wikipedia-logo.png]
+ भारत on Nepali Wikipedia
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भारत (bhārata).
+**** Pronunciation[edit] ****
+    * IPA(key): [bʱä̤ɾʌt̪]
+    * Phonetic Devanagari: भारत्
+**** Proper noun[edit] ****
+भारत • (bhārat)
+   1. India (a country in South_Asia)
+*** Declension[edit] ***
+            Declension of भारत
+                                  Singular
+            nominative            भारत [bʱäɾʌt̪]
+            accusative            भारतलाई [bʱäɾʌt̪läi]
+            instrumental/ergative भारतले [bʱäɾʌt̪le]
+            dative                भारतलाई [bʱäɾʌt̪läi]
+            ablative              भारतबाट [bʱäɾʌt̪̚bäʈʌ]
+            genitive              भारतको [bʱäɾʌt̪̚ko]
+            locative              भारतमा [bʱäɾʌt̪mä]
+            Notes:
+                * -को (-ko) becomes:
+                      o -का (-kā) when followed by a plural noun.
+                      o -की (-kī) when followed by a feminine noun.
+***** Newar[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit भारत (bhārata).
+**** Pronunciation[edit] ****
+    * IPA(key): [bʱaɾətə]
+**** Proper noun[edit] ****
+भारत • (bhārata) ? (Newa Spelling 𑐨𑐵𑐬𑐟)
+   1. India (a country in South_Asia)
+***** Sanskrit[edit] *****
+Sanskrit Wikipedia has an article on:
+भारतम्
+Wikipedia_sa
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬪᬵᬭᬢ (Balinese script)
+    * ভাৰত (Assamese script)
+    * ভারত (Bengali script)
+    * 𑰥𑰯𑰨𑰝 (Bhaiksuki script)
+    * 𑀪𑀸𑀭𑀢 (Brahmi script)
+    * 𑌭𑌾𑌰𑌤 (Grantha script)
+    * ભારત (Gujarati script)
+    * ਭਾਰਤ (Gurmukhi script)
+    * ꦨꦴꦫꦠ (Javanese script)
+    * ភារត (Khmer script)
+    * ಭಾರತ (Kannada script)
+    * ຠາຣຕ (Lao script)
+    * ഭാരത (Malayalam script)
+    * 𑘥𑘰𑘨𑘝 (Modi script)
+    * ᠪᠾᠠᢗᠷᠠᢐᠠ᠋ (Mongolian script)
+    * ᢨᠠ᠎᠊ᠠᡵᠠᢠᠠ (Manchu script)
+    * ဘာရတ (Burmese script)
+    * 𑧅𑧑𑧈𑦽 (Nandinagari script)
+    * 𑐨𑐵𑐬𑐟 (Newa script)
+    * ଭାରତ (Oriya script)
+    * ꢩꢵꢬꢡ (Saurashtra script)
+    * 𑆨𑆳𑆫𑆠 (Sharada script)
+    * 𑖥𑖯𑖨𑖝 (Siddham script)
+    * භාරත (Sinhalese script)
+    * భారత (Telugu script)
+    * ภารต (Thai script)
+    * བྷཱ་ར་ཏ (Tibetan script)
+    * 𑒦𑒰𑒩𑒞 (Tirhuta script)
+**** Etymology[edit] ****
+Vṛddhi derivative of भरत (bharata).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /bʱɑ́ː.ɾɐ.tɐ/
+    * (Classical) IPA(key): /ˈbʱɑː.ɾɐ.t̪ɐ/
+**** Adjective[edit] ****
+भारत • (bhā́rata)
+   1. descended from भरत (bharata) or the Bhāratas (applied to Agni either
+      "sprung from the priests called Bharatas" or "bearer of the oblation")
+   2. belonging or relating to the Bharatas
+         1. (with युद्ध (yuddhá), संग्राम (saṃgrāma), समर (samará), समिति
+            (samiti)) the war or battle of the bharatas
+         2. (with or scil. आख्यान (ākhyāna) with इतिहास (itihāsa) and कथा
+            (kathā)) the story of the Bharatas, the history or narrative of
+            their war
+         3. (with or scil. मण्डल (máṇḍala) or वर्ष (varṣá)) "king Bharatas's
+            realm" i.e. India
+   3. inhabiting भरतवर्ष (bharata-varṣa) i.e. India; Indic
+*** Declension[edit] ***
+       Masculine a-stem declension of भारत (bhā́rata)
+                    Singular    Dual          Plural
+       Nominative   भारतः       भारतौ         भारताः / भारतासः¹
+                    bhā́rataḥ   bhā́ratau     bhā́ratāḥ / bhā́ratāsaḥ¹
+       Vocative     भारत        भारतौ         भारताः / भारतासः¹
+                    bhā́rata    bhā́ratau     bhā́ratāḥ / bhā́ratāsaḥ¹
+       Accusative   भारतम्      भारतौ         भारतान्
+                    bhā́ratam   bhā́ratau     bhā́ratān
+       Instrumental भारतेन      भारताभ्याम्   भारतैः / भारतेभिः¹
+                    bhā́ratena  bhā́ratābhyām bhā́rataiḥ / bhā́ratebhiḥ¹
+       Dative       भारताय      भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāya  bhā́ratābhyām bhā́ratebhyaḥ
+       Ablative     भारतात्     भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāt   bhā́ratābhyām bhā́ratebhyaḥ
+       Genitive     भारतस्य     भारतयोः       भारतानाम्
+                    bhā́ratasya bhā́ratayoḥ   bhā́ratānām
+       Locative     भारते       भारतयोः       भारतेषु
+                    bhā́rate    bhā́ratayoḥ   bhā́rateṣu
+       Notes            * ¹Vedic
+    Feminine ī-stem declension of भारती (bhā́ratī)
+                 Singular   Dual                   Plural
+    Nominative   भारती      भारत्यौ / भारती¹       भारत्यः / भारतीः¹
+                 bhā́ratī   bhā́ratyau / bhā́ratī¹ bhā́ratyaḥ / bhā́ratīḥ¹
+    Vocative     भारति      भारत्यौ / भारती¹       भारत्यः / भारतीः¹
+                 bhā́rati   bhā́ratyau / bhā́ratī¹ bhā́ratyaḥ / bhā́ratīḥ¹
+    Accusative   भारतीम्    भारत्यौ / भारती¹       भारतीः
+                 bhā́ratīm  bhā́ratyau / bhā́ratī¹ bhā́ratīḥ
+    Instrumental भारत्या    भारतीभ्याम्            भारतीभिः
+                 bhā́ratyā  bhā́ratībhyām          bhā́ratībhiḥ
+    Dative       भारत्यै    भारतीभ्याम्            भारतीभ्यः
+                 bhā́ratyai bhā́ratībhyām          bhā́ratībhyaḥ
+    Ablative     भारत्याः   भारतीभ्याम्            भारतीभ्यः
+                 bhā́ratyāḥ bhā́ratībhyām          bhā́ratībhyaḥ
+    Genitive     भारत्याः   भारत्योः               भारतीनाम्
+                 bhā́ratyāḥ bhā́ratyoḥ             bhā́ratīnām
+    Locative     भारत्याम्  भारत्योः               भारतीषु
+                 bhā́ratyām bhā́ratyoḥ             bhā́ratīṣu
+    Notes            * ¹Vedic
+       Neuter a-stem declension of भारत (bhā́rata)
+                    Singular    Dual          Plural
+       Nominative   भारतम्      भारते         भारतानि / भारता¹
+                    bhā́ratam   bhā́rate      bhā́ratāni / bhā́ratā¹
+       Vocative     भारत        भारते         भारतानि / भारता¹
+                    bhā́rata    bhā́rate      bhā́ratāni / bhā́ratā¹
+       Accusative   भारतम्      भारते         भारतानि / भारता¹
+                    bhā́ratam   bhā́rate      bhā́ratāni / bhā́ratā¹
+       Instrumental भारतेन      भारताभ्याम्   भारतैः / भारतेभिः¹
+                    bhā́ratena  bhā́ratābhyām bhā́rataiḥ / bhā́ratebhiḥ¹
+       Dative       भारताय      भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāya  bhā́ratābhyām bhā́ratebhyaḥ
+       Ablative     भारतात्     भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāt   bhā́ratābhyām bhā́ratebhyaḥ
+       Genitive     भारतस्य     भारतयोः       भारतानाम्
+                    bhā́ratasya bhā́ratayoḥ   bhā́ratānām
+       Locative     भारते       भारतयोः       भारतेषु
+                    bhā́rate    bhā́ratayoḥ   bhā́rateṣu
+       Notes            * ¹Vedic
+**** Noun[edit] ****
+भारत • (bhā́rata) m
+   1. a descendant of Bharata (also in pl. for Bharatās)
+   2. (with अश्वमेध (aśva-medhá)), name of the author of Rigveda V, 27
+   3. (with देववात (deva-vāta) and देवश्रवस् (deva-śravas)), name of the
+      authors of Rigveda III, 23
+   4. fire
+   5. an actor (compare भरत (bharata))
+   6. name of the sun shining on the south of मेरु (meru)
+*** Declension[edit] ***
+       Masculine a-stem declension of भारत (bhā́rata)
+                    Singular    Dual          Plural
+       Nominative   भारतः       भारतौ         भारताः / भारतासः¹
+                    bhā́rataḥ   bhā́ratau     bhā́ratāḥ / bhā́ratāsaḥ¹
+       Vocative     भारत        भारतौ         भारताः / भारतासः¹
+                    bhā́rata    bhā́ratau     bhā́ratāḥ / bhā́ratāsaḥ¹
+       Accusative   भारतम्      भारतौ         भारतान्
+                    bhā́ratam   bhā́ratau     bhā́ratān
+       Instrumental भारतेन      भारताभ्याम्   भारतैः / भारतेभिः¹
+                    bhā́ratena  bhā́ratābhyām bhā́rataiḥ / bhā́ratebhiḥ¹
+       Dative       भारताय      भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāya  bhā́ratābhyām bhā́ratebhyaḥ
+       Ablative     भारतात्     भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāt   bhā́ratābhyām bhā́ratebhyaḥ
+       Genitive     भारतस्य     भारतयोः       भारतानाम्
+                    bhā́ratasya bhā́ratayoḥ   bhā́ratānām
+       Locative     भारते       भारतयोः       भारतेषु
+                    bhā́rate    bhā́ratayoḥ   bhā́rateṣu
+       Notes            * ¹Vedic
+**** Noun[edit] ****
+भारत • (bhā́rata) n
+   1. the land of Bharatas i.e. India (compare above)
+   2. the story of the Bharatas and their wars (sometimes identified with the
+      महाभारत (mahā-bhārata), and sometimes distinguished from it)
+   3. (with सरस् (sáras)) name of a lake
+*** Declension[edit] ***
+       Neuter a-stem declension of भारत (bhā́rata)
+                    Singular    Dual          Plural
+       Nominative   भारतम्      भारते         भारतानि / भारता¹
+                    bhā́ratam   bhā́rate      bhā́ratāni / bhā́ratā¹
+       Vocative     भारत        भारते         भारतानि / भारता¹
+                    bhā́rata    bhā́rate      bhā́ratāni / bhā́ratā¹
+       Accusative   भारतम्      भारते         भारतानि / भारता¹
+                    bhā́ratam   bhā́rate      bhā́ratāni / bhā́ratā¹
+       Instrumental भारतेन      भारताभ्याम्   भारतैः / भारतेभिः¹
+                    bhā́ratena  bhā́ratābhyām bhā́rataiḥ / bhā́ratebhiḥ¹
+       Dative       भारताय      भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāya  bhā́ratābhyām bhā́ratebhyaḥ
+       Ablative     भारतात्     भारताभ्याम्   भारतेभ्यः
+                    bhā́ratāt   bhā́ratābhyām bhā́ratebhyaḥ
+       Genitive     भारतस्य     भारतयोः       भारतानाम्
+                    bhā́ratasya bhā́ratayoḥ   bhā́ratānām
+       Locative     भारते       भारतयोः       भारतेषु
+                    bhā́rate    bhā́ratayoḥ   bhā́rateṣu
+       Notes            * ¹Vedic
+*** Descendants[edit] ***
+    * → Assamese: ভাৰত (bharot)
+→ Bengali: ভারত (bharot)
+→ Bihari: भारत (bhārat)
+→ Bodo (India): भारत (bharot)
+→ Dogri: भारत (bhārat)
+→ Gujarati: ભારત (bhārat)
+→ Hindi: भारत (bhārat)
+→ Kannada: ಭಾರತ (bhārata)
+→ Konkani: भारत (bhārat)
+→ Kashmiri:
+→ Maithili: भारत (bhārat)
+→ Malayalam: ഭാരതം (bhārataṁ)
+→ Manipuri:
+→ Nepali: भारत (bhārat)
+→ Newar: भारत (bhārata)
+→ Old Marathi:
+    * → Marathi: भारत (bhārat)
+→ Oriya: ଭାରତ (bharôtô)
+→ Sindhi:
+    * Arabic script: ڀَارَتُ‎ (bhāratu)
+Devanagari script: भारतु (bhāratu)
+→ Tamil: பாரதம் (pāratam)
+→ Telugu: భారత (bhārata)
+**** References[edit] ****
+    * Monier_Williams (1899), “भारत”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 0753, column 1.
+Retrieved from "https://en.wiktionary.org/w/
+index.php?title=भारत&oldid=76184000"
+Categories:
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_learned_borrowings_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_terms_with_audio_links
+    * Hindi_lemmas
+    * Hindi_proper_nouns
+    * Hindi_masculine_nouns
+    * hi:Countries_in_Asia
+    * hi:Countries
+    * Kashmiri_terms_borrowed_from_Sanskrit
+    * Kashmiri_learned_borrowings_from_Sanskrit
+    * Kashmiri_terms_derived_from_Sanskrit
+    * Kashmiri_terms_with_IPA_pronunciation
+    * Kashmiri_lemmas
+    * Kashmiri_proper_nouns
+    * Kashmiri_masculine_nouns
+    * Kashmiri_terms_with_rare_senses
+    * Kashmiri_formal_terms
+    * ks:Countries_in_Asia
+    * ks:Countries
+    * Konkani_terms_borrowed_from_Sanskrit
+    * Konkani_learned_borrowings_from_Sanskrit
+    * Konkani_terms_derived_from_Sanskrit
+    * Konkani_terms_with_IPA_pronunciation
+    * Konkani_lemmas
+    * Konkani_proper_nouns
+    * kok:Countries_in_Asia
+    * kok:Countries
+    * Marathi_terms_borrowed_from_Sanskrit
+    * Marathi_learned_borrowings_from_Sanskrit
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_terms_with_IPA_pronunciation
+    * Marathi_lemmas
+    * Marathi_proper_nouns
+    * Marathi_masculine_nouns
+    * mr:Countries_in_Asia
+    * mr:Countries
+    * Marathi_nouns_with_declension
+    * Nepali_terms_borrowed_from_Sanskrit
+    * Nepali_learned_borrowings_from_Sanskrit
+    * Nepali_terms_derived_from_Sanskrit
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_proper_nouns
+    * ne:Countries_in_Asia
+    * ne:Countries
+    * Newar_terms_borrowed_from_Sanskrit
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_proper_nouns
+    * Newar_proper_nouns_in_Devanagari_script
+    * new:Countries_in_Asia
+    * new:Countries
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_the_Proto-Indo-European_root_*bʰer-
+    * Sanskrit_terms_belonging_to_the_root_भृ
+    * Sanskrit_vrddhi_derivatives
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_adjectives
+    * Sanskrit_adjectives_in_Devanagari_script
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+    * Sanskrit_a-stem_nouns
+    * Sanskrit_neuter_nouns
+    * sa:Fire
+Hidden categories:
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/mr
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/ne
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Azərbaycanca
+    * বাংলা
+    * Deutsch
+    * Eesti
+    * Ελληνικά
+    * Español
+    * Français
+    * ગુજરાતી
+    * 한국어
+    * हिन्दी
+    * Hrvatski
+    * Ido
+    * Bahasa_Indonesia
+    * Italiano
+    * Қазақша
+    * Kurdî
+    * Кыргызча
+    * ລາວ
+    * Lëtzebuergesch
+    * Lietuvių
+    * Magyar
+    * Malagasy
+    * Nederlands
+    * नेपाली
+    * 日本語
+    * پښتو
+    * Polski
+    * Português
+    * Română
+    * Русский
+    * संस्कृतम्
+    * Sängö
+    * Slovenščina
+    * Svenska
+    * தமிழ்
+    * ไทย
+    * 粵語
+    * 中文
+    * This page was last edited on 22 September 2023, at 21:35.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

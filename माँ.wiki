@@ -1,0 +1,152 @@
+****** माँ ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: मा, मां, मैं, म, में, and मी
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Noun
+                # 1.3.1_Declension
+                # 1.3.2_Derived_terms
+    * 2_Newar
+          o 2.1_Pronunciation
+          o 2.2_Noun
+***** Hindi[edit] *****
+**** Etymology[edit] ****
+Inherited from Sauraseni_Prakrit 𑀫𑀸𑀤𑀸 (mādā), from Sanskrit मातृ (mātṛ,
+“mother”), from Proto-Indo-Iranian *máHtā, from Proto-Indo-European *méh₂tēr.
+Doublet of माता (mātā), a tatsama. Compare Punjabi ਮਾਂ (mā̃), Gujarati મા (mā),
+માં (mā̃), Bengali মা (ma), Assamese মা (ma), Oriya ମା (ma), Marathi माय (māy),
+Konkani मांय (mā̃y).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /mɑ̃ː/, [mä̃ː]
+**** Noun[edit] ****
+माँ • (mā̃) f (Urdu spelling ماں‎)
+   1. (informal) mother
+            Synonyms: माता (mātā), जननी (jannī), अंबा (ambā), (Muslim usage)
+            वालिदा (vālidā)
+   2. (endearing) mum, mummy
+            Synonyms: अम्मी (ammī), अम्मा (ammā), माऊ (māū), मैया (maiyā)
+*** Declension[edit] ***
+Declension of माँ (fem ā̃-stem)
+                                    singular plural
+                           direct   माँ      माएँ
+                                    mā̃      māẽ
+                           oblique  माँ      माओं
+                                    mā̃      māõ
+                           vocative माँ      माओं
+                                    mā̃      māõ
+*** Derived terms[edit] ***
+    * माँ-बाप (mā̃-bāp)
+***** Newar[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [mã]
+**** Noun[edit] ****
+माँ • (mā̃) ? (Newa Spelling 𑐩𑐵𑑃)
+   1. mother
+Retrieved from "https://en.wiktionary.org/w/index.php?title=माँ&oldid=76133994"
+Categories:
+    * Hindi_terms_inherited_from_Sauraseni_Prakrit
+    * Hindi_terms_derived_from_Sauraseni_Prakrit
+    * Hindi_terms_inherited_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_inherited_from_Proto-Indo-Iranian
+    * Hindi_terms_derived_from_Proto-Indo-Iranian
+    * Hindi_terms_inherited_from_Proto-Indo-European
+    * Hindi_terms_derived_from_Proto-Indo-European
+    * Hindi_doublets
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_terms_spelled_with_ँ
+    * Hindi_feminine_nouns
+    * Hindi_informal_terms
+    * Hindi_endearing_terms
+    * Hindi_feminine_ā̃-stem_nouns
+    * hi:Family
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+Hidden categories:
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/as
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/kok
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Afrikaans
+    * Català
+    * Deutsch
+    * Eesti
+    * Français
+    * हिन्दी
+    * ລາວ
+    * Magyar
+    * Malagasy
+    * Polski
+    * Português
+    * Русский
+    * Sängö
+    * தமிழ்
+    * ไทย
+    * 中文
+    * This page was last edited on 16 September 2023, at 08:47.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

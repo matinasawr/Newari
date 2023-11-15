@@ -1,0 +1,363 @@
+****** भूगोल ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: भुगोल
+??
+***** Contents *****
+    * 1_Bihari
+          o 1.1_Etymology
+          o 1.2_Noun
+    * 2_Hindi
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+                # 2.3.1_Declension
+          o 2.4_References
+    * 3_Marathi
+          o 3.1_Alternative_forms
+          o 3.2_Etymology
+          o 3.3_Pronunciation
+          o 3.4_Noun
+                # 3.4.1_Declension
+          o 3.5_References
+    * 4_Nepali
+          o 4.1_Etymology
+          o 4.2_Pronunciation
+          o 4.3_Noun
+    * 5_Newar
+          o 5.1_Etymology
+          o 5.2_Pronunciation
+          o 5.3_Noun
+    * 6_Sanskrit
+          o 6.1_Alternative_scripts
+          o 6.2_Etymology
+          o 6.3_Pronunciation
+          o 6.4_Noun
+                # 6.4.1_Declension
+                # 6.4.2_Descendants
+***** Bihari[edit] *****
+Bhojpuri Wikipedia has an article on:
+भूगोल
+Wikipedia_bho
+**** Etymology[edit] ****
+Learned_borrowing from Sanskrit भूगोल (bhūgola).
+**** Noun[edit] ****
+भूगोल (bhūgol)
+   1. geography
+***** Hindi[edit] *****
+Hindi Wikipedia has an article on:
+भूगोल
+Wikipedia_hi
+**** Etymology[edit] ****
+Borrowed from Sanskrit भूगोल (bhūgola).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /bʱuː.ɡoːl/, [bʱuː.ɡoːl̪]
+**** Noun[edit] ****
+भूगोल • (bhūgol) m (Urdu spelling بھوگول‎)
+   1. geography
+            Synonym: भूगोल_विद्या (bhūgol vidyā)
+   2. the globe, the earth
+*** Declension[edit] ***
+Declension of भूगोल (masc cons-stem)
+                                    singular plural
+                           direct   भूगोल    भूगोल
+                                    bhūgol   bhūgol
+                           oblique  भूगोल    भूगोलों
+                                    bhūgol   bhūgolõ
+                           vocative भूगोल    भूगोलो
+                                    bhūgol   bhūgolo
+**** References[edit] ****
+    * McGregor,_Ronald_Stuart (1993), “भूगोल”, inThe Oxford Hindi-English
+      Dictionary, London: Oxford University Press
+    * Platts,_John_T. (1884), “भूगोल”, inA dictionary of Urdu, classical Hindi,
+      and English, London: W. H. Allen & Co.
+***** Marathi[edit] *****
+Marathi Wikipedia has an article on:
+भूगोल
+Wikipedia_mr
+**** Alternative forms[edit] ****
+    * भूगोळ (bhūgoḷ)
+**** Etymology[edit] ****
+Borrowed from Sanskrit भूगोल (bhūgola).
+**** Pronunciation[edit] ****
+    * IPA(key): /bʱu.ɡol/
+**** Noun[edit] ****
+भूगोल • (bhūgol) m
+   1. geography
+*** Declension[edit] ***
+   Declension of भूगोल (bhūgol)
+   direct       भूगोल
+   singular     bhūgol
+   direct       भूगोल
+   plural       bhūgol
+                singular   plural
+   nominative   भूगोल      भूगोल
+                bhūgol     bhūgol
+   oblique      भूगोला-    भूगोलां-
+                bhūgolā-   bhūgolāN-
+   dative       भूगोलाला   भूगोलांना
+                bhūgolālā  bhūgolāNnā
+   ergative     भूगोलाने   भूगोलांनी
+                bhūgolāne  bhūgolāNni
+   instrumental भूगोलाशी   भूगोलांशी
+                bhūgolāśi  bhūgolāNśi
+   locative     भूगोलात    भूगोलांत
+                bhūgolāt   bhūgolāNt
+   vocative     भूगोला     भूगोलांनो
+                bhūgolā    bhūgolāNno
+   Oblique Note: The oblique case precedes all postpositions.
+   There is no space between the stem and the postposition.
+   Dative Note: -स (-sa) is archaic. -ते (-te) is limited to literary usage.
+   Locative Note: -त (-ta) is a postposition.
+Genitive declension of भूगोल
+         masculine object      feminine object        neuter object          oblique
+         singular   plural     singular   plural      singular*   plural
+                                                      भूगोलाचे,
+singular भूगोलाचा   भूगोलाचे   भूगोलाची   भूगोलाच्या  भूगोलाचं    भूगोलाची   भूगोलाच्या
+subject  bhūgolāċā  bhūgolāce  bhūgolāci  bhūgolāca   bhūgolāce,  bhūgolāci  bhūgolāca
+                                                      bhūgolāċa
+                                                      भूगोलांचे,
+plural   भूगोलांचा  भूगोलांचे  भूगोलांची  भूगोलांच्या भूगोलांचं   भूगोलांची  भूगोलांच्या
+subject  bhūgolāNċā bhūgolāNce bhūgolāNci bhūgolāNca  bhūgolāNce, bhūgolāNci bhūgolāNca
+                                                      bhūgolāNċa
+* Note: Word-final ए (e) in neuter words is alternatively written with the anusvara and
+pronounced as अ (a).
+Oblique Note: For most postpostions, the oblique genitive can be optionally inserted
+between the stem and the postposition.
+**** References[edit] ****
+    * Berntsen, Maxine, “भूगोल”, in A Basic Marathi-English Dictionary, New
+      Delhi: American Institute of Indian Studies, 1982-1983.
+    * Molesworth,_James_Thomas (1857), “भूगोल”, inA dictionary, Marathi and
+      English, Bombay: Printed for government at the Bombay Education Society's
+      Press
+***** Nepali[edit] *****
+Nepali Wikipedia has an article on:
+भूगोल
+Wikipedia_ne
+**** Etymology[edit] ****
+Borrowed from Sanskrit भूगोल (bhūgola).
+**** Pronunciation[edit] ****
+    * IPA(key): [bʱṳɡ̞ol]
+    * Phonetic Devanagari: भुगोल्
+**** Noun[edit] ****
+भूगोल • (bhūgol)
+   1. geography
+***** Newar[edit] *****
+Newar Wikipedia has an article on:
+भूगोल
+Wikipedia_new
+**** Etymology[edit] ****
+From Sanskrit भूगोल (bhūgol).
+**** Pronunciation[edit] ****
+    * IPA(key): [bʱuːɡol]
+**** Noun[edit] ****
+भूगोल • (bhūgol) ? (Newa Spelling 𑐨𑐹𑐐𑑀𑐮)
+   1. geography
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬪᬹᬕᭀᬮ (Balinese script)
+    * ভূগোল (Assamese script)
+    * ভূগোল (Bengali script)
+    * 𑰥𑰳𑰐𑰺𑰩 (Bhaiksuki script)
+    * 𑀪𑀽𑀕𑁄𑀮 (Brahmi script)
+    * 𑌭𑍂𑌗𑍋𑌲 (Grantha script)
+    * ભૂગોલ (Gujarati script)
+    * ਭੂਗੋਲ (Gurmukhi script)
+    * ꦨꦹꦒꦺꦴꦭ (Javanese script)
+    * ភូគោល (Khmer script)
+    * ಭೂಗೋಲ (Kannada script)
+    * ຠູໂຄລ (Lao script)
+    * ഭൂഗോല (Malayalam script)
+    * 𑘥𑘴𑘐𑘻𑘩 (Modi script)
+    * ᠪᠾᠤᠤᠺᠣᠸᠠᠯᠠ᠋ (Mongolian script)
+    * ᢨᡠᡠᡤᠣᠯᠠ (Manchu script)
+    * ဘူဂေါလ (Burmese script)
+    * 𑧅𑧕𑦰𑧜𑧉 (Nandinagari script)
+    * 𑐨𑐹𑐐𑑀𑐮 (Newa script)
+    * ଭୂଗୋଲ (Oriya script)
+    * ꢩꢹꢔꣂꢭ (Saurashtra script)
+    * 𑆨𑆷𑆓𑆾𑆬 (Sharada script)
+    * 𑖥𑖳𑖐𑖺𑖩 (Siddham script)
+    * භූගෝල (Sinhalese script)
+    * భూగోల (Telugu script)
+    * ภูโคล (Thai script)
+    * བྷཱུ་གོ་ལ (Tibetan script)
+    * 𑒦𑒴𑒑𑒼𑒪 (Tirhuta script)
+**** Etymology[edit] ****
+From भू (bhū, “earth, land; Earth”) +‎ गोल (gola, “circle”).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /bʱuː.ɡɐw.lɐ/
+    * (Classical) IPA(key): /bʱuːˈɡoː.l̪ɐ/
+**** Noun[edit] ****
+भूगोल • (bhūgola) m
+   1. the globe, Earth
+*** Declension[edit] ***
+         Masculine a-stem declension of भूगोल (bhūgola)
+                      Singular   Dual         Plural
+         Nominative   भूगोलः     भूगोलौ       भूगोलाः / भूगोलासः¹
+                      bhūgolaḥ   bhūgolau     bhūgolāḥ / bhūgolāsaḥ¹
+         Vocative     भूगोल      भूगोलौ       भूगोलाः / भूगोलासः¹
+                      bhūgola    bhūgolau     bhūgolāḥ / bhūgolāsaḥ¹
+         Accusative   भूगोलम्    भूगोलौ       भूगोलान्
+                      bhūgolam   bhūgolau     bhūgolān
+         Instrumental भूगोलेन    भूगोलाभ्याम् भूगोलैः / भूगोलेभिः¹
+                      bhūgolena  bhūgolābhyām bhūgolaiḥ / bhūgolebhiḥ¹
+         Dative       भूगोलाय    भूगोलाभ्याम् भूगोलेभ्यः
+                      bhūgolāya  bhūgolābhyām bhūgolebhyaḥ
+         Ablative     भूगोलात्   भूगोलाभ्याम् भूगोलेभ्यः
+                      bhūgolāt   bhūgolābhyām bhūgolebhyaḥ
+         Genitive     भूगोलस्य   भूगोलयोः     भूगोलानाम्
+                      bhūgolasya bhūgolayoḥ   bhūgolānām
+         Locative     भूगोले     भूगोलयोः     भूगोलेषु
+                      bhūgole    bhūgolayoḥ   bhūgoleṣu
+         Notes            * ¹Vedic
+*** Descendants[edit] ***
+    * → Assamese: ভূগোল (bhugül)
+→ Bengali: ভূগোল (bhugōl)
+→ Bihari: भूगोल (bhūgol)
+→ Gujarati: ભૂગોળ (bhūgoḷ)
+→ Hindi: भूगोल (bhūgol)
+→ Kannada: ಭೂಗೋಳ (bhūgōḷa)
+→ Marathi: भूगोल (bhūgol), भूगोळ (bhūgoḷ)
+→ Nepali: भूगोल (bhūgol)
+→ Newar: भूगोल (bhūgola)
+→ Punjabi: ਭੂਗੋਲ (bhūgol)
+→ Sinhalese: භූගෝලය (bhūgōlaya)
+→ Tamil: பூகோளம் (pūkōḷam)
+→ Telugu: భూగోళము (bhūgōḷamu)
+→ Urdu: بھوگول‎ (bhūgol)
+Retrieved from "https://en.wiktionary.org/w/
+index.php?title=भूगोल&oldid=72302603"
+Categories:
+    * Bihari_terms_borrowed_from_Sanskrit
+    * Bihari_learned_borrowings_from_Sanskrit
+    * Bihari_terms_derived_from_Sanskrit
+    * Bihari_lemmas
+    * Bihari_nouns
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_masculine_nouns
+    * Hindi_masculine_consonant-stem_nouns
+    * hi:Geography
+    * Marathi_terms_borrowed_from_Sanskrit
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_terms_with_IPA_pronunciation
+    * Marathi_lemmas
+    * Marathi_nouns
+    * Marathi_nouns_in_Devanagari_script
+    * Marathi_masculine_nouns
+    * Marathi_nouns_with_declension
+    * mr:Geography
+    * mr:Sciences
+    * Nepali_terms_borrowed_from_Sanskrit
+    * Nepali_terms_derived_from_Sanskrit
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_nouns
+    * Newar_terms_borrowed_from_Sanskrit
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * Sanskrit_compound_terms
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+    * Sanskrit_a-stem_nouns
+Hidden categories:
+    * Marathi_entries_with_topic_categories_using_raw_markup
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/new
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/ur
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Français
+    * 한국어
+    * हिन्दी
+    * Hrvatski
+    * Italiano
+    * Kurdî
+    * Кыргызча
+    * ລາວ
+    * Lietuvių
+    * Magyar
+    * Malagasy
+    * मराठी
+    * Nederlands
+    * नेपाली
+    * Polski
+    * Português
+    * Русский
+    * संस्कृतम्
+    * Sängö
+    * Slovenščina
+    * Svenska
+    * Türkçe
+    * 中文
+    * This page was last edited on 24 March 2023, at 16:14.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]
