@@ -1,0 +1,484 @@
+****** धर्म ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Noun
+                # 1.3.1_Declension
+                # 1.3.2_Derived_terms
+                # 1.3.3_References
+    * 2_Marathi
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+                # 2.3.1_Declension
+                # 2.3.2_Derived_terms
+          o 2.4_References
+    * 3_Nepali
+          o 3.1_Etymology
+          o 3.2_Pronunciation
+          o 3.3_Noun
+    * 4_Newar
+          o 4.1_Etymology
+          o 4.2_Pronunciation
+          o 4.3_Noun
+    * 5_Old_Gujarati
+          o 5.1_Etymology
+          o 5.2_Noun
+                # 5.2.1_Descendants
+    * 6_Sanskrit
+          o 6.1_Alternative_forms
+          o 6.2_Etymology
+          o 6.3_Pronunciation
+          o 6.4_Noun
+                # 6.4.1_Declension
+                # 6.4.2_Related_terms
+                # 6.4.3_Descendants
+          o 6.5_References
+***** Hindi[edit] *****
+Hindi Wikipedia has an article on:
+धर्म
+Wikipedia_hi
+**** Etymology[edit] ****
+Borrowed from Sanskrit धर्म (dhárma), from Proto-Indo-Iranian *dʰármas, from
+Proto-Indo-European *dʰer- (“to hold, to support”).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /d̪ʱəɾm/
+    * Rhymes: -əɾm
+**** Noun[edit] ****
+धर्म • (dharm) m (Urdu spelling دھرم‎)
+   1. religion, faith
+            Synonym: मज़हब (mazhab)
+            हम किसी धर्म का तिरस्कार नहीं करना चाहते।
+                  ham kisī dharm kā tiraskār nahī̃ karnā cāhte.
+                  We do not want to disregard any religion.
+            धर्म हमारे समाज की रीढ़ है।
+                  dharm hamāre samāj kī rīṛh hai.
+                  Religion is the backbone of our society.
+   2. virtue, righteousness; morality
+            हमारा नेता एक धर्म-स्तम्भ है।
+                  hamārā netā ek dharm-stambh hai.
+                  Our leader is a pillar of righteousness.
+   3. duty
+            Synonyms: कर्तव्य (kartavya), फ़र्ज़ (farz)
+            तुम्हारी मृत्यु से पहले, अपना अन्तिम धर्म निभाना पड़ता।
+                  tumhārī mŕtyu se pahle, apnā antim dharm nibhānā paṛtā.
+                  Before your death, you must fulfill your duty.
+*** Declension[edit] ***
+Declension of धर्म (masc cons-stem)
+                                    singular plural
+                           direct   धर्म     धर्म
+                                    dharm    dharm
+                           oblique  धर्म     धर्मों
+                                    dharm    dharmõ
+                           vocative धर्म     धर्मो
+                                    dharm    dharmo
+*** Derived terms[edit] ***
+    * अधर्म (adharm, “unrighteousness; irreligion”)
+    * धर्मकार्य (dharmakārya, “religious rite or function”)
+    * धर्मग्रंथ (dharmagranth, “religious scripture”)
+    * धर्मतन्त्र (dharmatantra, “theocracy”)
+    * धर्ममार्ग (dharmamārg, “the path of virtue”)
+    * धर्मव्रती (dharmavratī, “duty-bound”)
+    * धार्मिक (dhārmik, “religious”)
+    * विधर्म (vidharm, “heresy”)
+ 
+*** References[edit] ***
+    * Bahri,_Hardev (1989), “धर्म”, inSiksarthi Hindi-Angrejhi Sabdakosa
+      [Learners' Hindi-English Dictionary], Delhi: Rajpal & Sons.
+    * Caturvedi, Mahendra; Bhola Nath Tiwari (1970), “धर्म”, inA practical
+      Hindi-English dictionary, Delhi: National Publishing House
+***** Marathi[edit] *****
+Marathi Wikipedia has an article on:
+धर्म
+Wikipedia_mr
+**** Etymology[edit] ****
+Borrowed from Sanskrit धर्म (dhárma), from Proto-Indo-Iranian *dʰármas, from
+Proto-Indo-European *dʰer- (“to hold, to support”).
+**** Pronunciation[edit] ****
+    * IPA(key): /d̪ʱəɾ.mə/
+**** Noun[edit] ****
+धर्म • (dharma) m
+   1. religion
+*** Declension[edit] ***
+   Declension of धर्म (dharma)
+   direct       धर्म
+   singular     dharma
+   direct       धर्म
+   plural       dharma
+                singular  plural
+   nominative   धर्म      धर्म
+                dharma    dharma
+   oblique      धर्मा-    धर्मां-
+                dharmā-   dharmāN-
+   dative       धर्माला   धर्मांना
+                dharmālā  dharmāNnā
+   ergative     धर्माने   धर्मांनी
+                dharmāne  dharmāNni
+   instrumental धर्माशी   धर्मांशी
+                dharmāśi  dharmāNśi
+   locative     धर्मात    धर्मांत
+                dharmāt   dharmāNt
+   vocative     धर्मा     धर्मांनो
+                dharmā    dharmāNno
+   Oblique Note: The oblique case precedes all postpositions.
+   There is no space between the stem and the postposition.
+   Dative Note: -स (-sa) is archaic. -ते (-te) is limited to literary usage.
+   Locative Note: -त (-ta) is a postposition.
+Genitive declension of धर्म
+         masculine object    feminine object      neuter object        oblique
+         singular  plural    singular  plural     singular*  plural
+                                                  धर्माचे,
+singular धर्माचा   धर्माचे   धर्माची   धर्माच्या  धर्माचं    धर्माची   धर्माच्या
+subject  dharmāċā  dharmāce  dharmāci  dharmāca   dharmāce,  dharmāci  dharmāca
+                                                  dharmāċa
+                                                  धर्मांचे,
+plural   धर्मांचा  धर्मांचे  धर्मांची  धर्मांच्या धर्मांचं   धर्मांची  धर्मांच्या
+subject  dharmāNċā dharmāNce dharmāNci dharmāNca  dharmāNce, dharmāNci dharmāNca
+                                                  dharmāNċa
+* Note: Word-final ए (e) in neuter words is alternatively written with the
+anusvara and pronounced as अ (a).
+Oblique Note: For most postpostions, the oblique genitive can be optionally
+inserted between the stem and the postposition.
+*** Derived terms[edit] ***
+    * धर्मगुरू (dharmagurū, “priest”)
+    * धर्मग्रंथ (dharmagrantha, “religious scriptures”)
+    * धर्मनिरपेक्ष (dharmanirpekṣa, “secular”)
+    * धर्मशाळा (dharmaśāḷā)
+    * धार्मिक (dhārmik, “religious”)
+ 
+**** References[edit] ****
+    * Berntsen, Maxine, “धर्म”, in A Basic Marathi-English Dictionary, New
+      Delhi: American Institute of Indian Studies, 1982-1983.
+***** Nepali[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit धर्म (dhárma).
+**** Pronunciation[edit] ****
+    * IPA(key): [d̪ʱʌ̤rmʌ]
+    * Phonetic Devanagari: धर्म
+**** Noun[edit] ****
+धर्म • (dharma)
+   1. religion
+***** Newar[edit] *****
+Newar Wikipedia has an article on:
+धर्म
+Wikipedia_new
+**** Etymology[edit] ****
+Borrowed from Sanskrit धर्म (dhárma).
+**** Pronunciation[edit] ****
+    * IPA(key): [dʱəɾmə]
+**** Noun[edit] ****
+धर्म • (dharma) ? (Newa Spelling 𑐢𑐬𑑂𑐩)
+   1. religion
+***** Old Gujarati[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit धर्म (dhárma).
+**** Noun[edit] ****
+धर्म • (dharma) m
+   1. duty
+   2. dharma
+*** Descendants[edit] ***
+    * Gujarati: ધર્મ (dharma)
+***** Sanskrit[edit] *****
+**** Alternative forms[edit] ****
+Alternative scripts
+    * ᬥᬃᬫ (Balinese script)
+    * ধৰ্ম (Assamese script)
+    * ধর্ম (Bengali script)
+    * 𑰠𑰨𑰿𑰦 (Bhaiksuki script)
+    * 𑀥𑀭𑁆𑀫 (Brahmi script)
+    * 𑌧𑌰𑍍𑌮 (Grantha script)
+    * ધર્મ (Gujarati script)
+    * ਧਰੑਮ (Gurmukhi script)
+    * ꦣꦂꦩ (Javanese script)
+    * ធម៌ or ធម្ម៌ (Khmer script)
+    * ಧರ್ಮ (Kannada script)
+    * ຘຣ຺ມ (Lao script)
+    * ധര്മ (Malayalam script)
+    * 𑘠𑘨𑘿𑘦 (Modi script)
+    * ᢑᠾᠠᠷᠮᠠ᠋ (Mongolian script)
+    * ᢡᠠᡵᠮᠠ (Manchu script)
+    * ဓရ်္မ (Burmese script)
+    * 𑧀𑧈𑧠𑧆 (Nandinagari script)
+    * 𑐢𑐬𑑂𑐩 (Newa script)
+    * ଧର୍ମ (Oriya script)
+    * ꢤꢬ꣄ꢪ (Saurashtra script)
+    * 𑆣𑆫𑇀𑆩 (Sharada script)
+    * 𑖠𑖨𑖿𑖦 (Siddham script)
+    * ධර්ම (Sinhalese script)
+    * ధర్మ (Telugu script)
+    * ธรฺม (Thai script)
+    * དྷ་རྨ (Tibetan script)
+    * 𑒡𑒩𑓂𑒧 (Tirhuta script)
+**** Etymology[edit] ****
+From Proto-Indo-Aryan *dʰármas, from Proto-Indo-European *dʰér-mos, from *dʰer-
+(“to hold, support”), whence English throne. Cognate with Latin firmus
+(“stable, strong”) (whence also English firm).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /dʱɐ́ɾ.mɐ/
+    * (Classical) IPA(key): /ˈd̪ʱɐɾ.mɐ/
+**** Noun[edit] ****
+धर्म • (dhárma) m
+   1. morality, virtue, moral code, good deed, good works
+   2. that which is established or firm, steadfast decree, statute, ordinance,
+      law
+   3. usage, practice, customary observance or prescribed conduct, duty
+   4. right, justice (often as a synonym of punishment)
+   5. religion, religious merit
+   6. Law or Justice personified
+   7. the law or doctrine of Buddhism
+   8. the ethical precepts of Buddhism
+   9. the law of Northern Buddhism
+  10. nature, character, peculiar condition or essential quality, property,
+      mark, peculiarity
+  11. a particular ceremony
+  12. sacrifice
+  13. the ninth mansion
+  14. Upanishad
+  15. associating with the virtuous
+  16. religious abstraction, devotion
+  17. bow
+  18. Soma-drinker
+  19. name of the 15th अर्हत् (arhat) of the present अवसर्पिणी (ava-sarpiṇī)
+*** Declension[edit] ***
+           Masculine a-stem declension of धर्म (dhárma)
+                        Singular  Dual        Plural
+           Nominative   धर्मः     धर्मौ       धर्माः / धर्मासः¹
+                        dhármaḥ   dhármau     dhármāḥ / dhármāsaḥ¹
+           Vocative     धर्म      धर्मौ       धर्माः / धर्मासः¹
+                        dhárma    dhármau     dhármāḥ / dhármāsaḥ¹
+           Accusative   धर्मम्    धर्मौ       धर्मान्
+                        dhármam   dhármau     dhármān
+           Instrumental धर्मेण    धर्माभ्याम् धर्मैः / धर्मेभिः¹
+                        dhármeṇa  dhármābhyām dhármaiḥ / dhármebhiḥ¹
+           Dative       धर्माय    धर्माभ्याम् धर्मेभ्यः
+                        dhármāya  dhármābhyām dhármebhyaḥ
+           Ablative     धर्मात्   धर्माभ्याम् धर्मेभ्यः
+                        dhármāt   dhármābhyām dhármebhyaḥ
+           Genitive     धर्मस्य   धर्मयोः     धर्माणाम्
+                        dhármasya dhármayoḥ   dhármāṇām
+           Locative     धर्मे     धर्मयोः     धर्मेषु
+                        dhárme    dhármayoḥ   dhármeṣu
+           Notes            * ¹Vedic
+*** Related terms[edit] ***
+    * अधर्म (adharma)
+    * धर्मगुरू (dharmagurū)
+    * धर्मन् (dhárman)
+    * धर्मन् (dharmán)
+    * धार्मिक (dhārmika)
+*** Descendants[edit] ***
+    * → Balinese: ᬥᬃᬫ (darma, dharma)
+→ Bengali: ধর্ম (dhormo)
+→ Chinese: 達摩／达摩 (dámó)
+→ Dhivehi: ދަރުމަ‎ (daruma)
+→ Dutch: dharma
+→ English: dharma
+→ Gujarati: ધર્મ (dharma)
+→ Hindi: धर्म (dharm)
+→ Indonesian: darma, derma
+→ Irish: darma
+→ Italian: dharma
+→ Japanese: 達磨, ダルマ, ダーマ
+→ Javanese: ꦝꦂꦩ (dharma)
+→ Kannada: ಧರ್ಮ (dharma)
+→ Khmer: ធម៌ (tʰoa)
+→ Korean: 달마 (dalma)
+→ Lao: ທຳ (tham)
+→ Marathi: धर्म (dharma)
+→ Malay: derma (درما)
+→ Mongolian: дарма (darma)
+→ Nepali: धर्म (dharma)
+Pali: dhamma
+    * → English: dhamma
+→ French: dhamma
+→ Burmese: ဓမ္မ (dhamma.)
+→ Portuguese: darma
+Punjabi:
+ دَھرَم‎ (dharam) / ਧਰਮ (dharam)
+→ Tamil: தருமம் (tarumam)
+→ Telugu: ధర్మము (dharmamu)
+→ Thai: ธรรม (tam)
+→ Tibetan: ལྷ་ཆོས (lha chos)
+→ Tocharian B: agradharma
+→ Vietnamese: đạt_ma
+(with अग्र (agra))
+**** References[edit] ****
+    * Monier_Williams (1899), “धर्म”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 0510.
+Retrieved from "https://en.wiktionary.org/w/
+index.php?title=धर्म&oldid=76150525"
+Categories:
+    * Hindi_terms_derived_from_Proto-Indo-European
+    * Hindi_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+    * Hindi_terms_derived_from_Proto-Indo-Iranian
+    * Hindi_terms_derived_from_the_Proto-Indo-Iranian_root_*dʰar-
+    * Hindi_terms_derived_from_Proto-Indo-Aryan
+    * Hindi_terms_derived_from_the_Proto-Indo-Aryan_root_*dʰar-
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_derived_from_the_Sanskrit_root_धृ
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Rhymes:Hindi/əɾm
+    * Rhymes:Hindi/əɾm/1_syllable
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_masculine_nouns
+    * Hindi_terms_with_usage_examples
+    * Hindi_masculine_consonant-stem_nouns
+    * hi:Religion
+    * Marathi_terms_derived_from_Proto-Indo-European
+    * Marathi_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+    * Marathi_terms_derived_from_Proto-Indo-Iranian
+    * Marathi_terms_derived_from_the_Proto-Indo-Iranian_root_*dʰar-
+    * Marathi_terms_derived_from_Proto-Indo-Aryan
+    * Marathi_terms_derived_from_the_Proto-Indo-Aryan_root_*dʰar-
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_terms_derived_from_the_Sanskrit_root_धृ
+    * Marathi_terms_borrowed_from_Sanskrit
+    * Marathi_terms_with_IPA_pronunciation
+    * Marathi_lemmas
+    * Marathi_nouns
+    * Marathi_nouns_in_Devanagari_script
+    * Marathi_masculine_nouns
+    * Marathi_nouns_with_declension
+    * mr:Religion
+    * Nepali_terms_derived_from_Proto-Indo-European
+    * Nepali_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+    * Nepali_terms_derived_from_Proto-Indo-Iranian
+    * Nepali_terms_derived_from_the_Proto-Indo-Iranian_root_*dʰar-
+    * Nepali_terms_derived_from_Proto-Indo-Aryan
+    * Nepali_terms_derived_from_the_Proto-Indo-Aryan_root_*dʰar-
+    * Nepali_terms_derived_from_Sanskrit
+    * Nepali_terms_derived_from_the_Sanskrit_root_धृ
+    * Nepali_terms_borrowed_from_Sanskrit
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_nouns
+    * Newar_terms_borrowed_from_Sanskrit
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Religion
+    * Old_Gujarati_terms_derived_from_Proto-Indo-European
+    * Old_Gujarati_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+    * Old_Gujarati_terms_derived_from_Proto-Indo-Iranian
+    * Old_Gujarati_terms_derived_from_the_Proto-Indo-Iranian_root_*dʰar-
+    * Old_Gujarati_terms_derived_from_Proto-Indo-Aryan
+    * Old_Gujarati_terms_derived_from_the_Proto-Indo-Aryan_root_*dʰar-
+    * Old_Gujarati_terms_derived_from_Sanskrit
+    * Old_Gujarati_terms_derived_from_the_Sanskrit_root_धृ
+    * Old_Gujarati_terms_borrowed_from_Sanskrit
+    * Old_Gujarati_lemmas
+    * Old_Gujarati_nouns
+    * Old_Gujarati_masculine_nouns
+    * Sanskrit_terms_belonging_to_the_root_धृ
+    * Sanskrit_terms_derived_from_Proto-Indo-Aryan
+    * Sanskrit_terms_derived_from_the_Proto-Indo-Aryan_root_*dʰar-
+    * Sanskrit_terms_derived_from_Proto-Indo-Iranian
+    * Sanskrit_terms_derived_from_the_Proto-Indo-Iranian_root_*dʰar-
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_the_Proto-Indo-European_root_*dʰer-
+    * Sanskrit_terms_inherited_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-European
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+    * Sanskrit_a-stem_nouns
+    * sa:Buddhism
+    * sa:Dharma
+    * sa:Hinduism
+    * sa:Law
+Hidden categories:
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Sanskrit_entries_with_topic_categories_using_raw_markup
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Català
+    * Français
+    * 한국어
+    * हिन्दी
+    * Italiano
+    * Kurdî
+    * ລາວ
+    * Magyar
+    * Malagasy
+    * मराठी
+    * Na_Vosa_Vakaviti
+    * 日本語
+    * پښتو
+    * Polski
+    * Русский
+    * संस्कृतम्
+    * Slovenščina
+    * தமிழ்
+    * ไทย
+    * Türkçe
+    * اردو
+    * 中文
+    * This page was last edited on 17 September 2023, at 13:22.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

@@ -1,0 +1,197 @@
+****** ञ ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+[//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Devanagari_%E0%A4%9E.svg/
+                     120px-Devanagari_%E0%A4%9E.svg.png]
+ञ U+091E, &#2334;
+  DEVANAGARI LETTER NYA
+←_झ      Devanagari ट_→
+[U+091D]            [U+091F]
+??
+***** Contents *****
+    * 1_Translingual
+          o 1.1_Pronunciation
+          o 1.2_Letter
+                # 1.2.1_See_also
+    * 2_Dhivehi
+          o 2.1_Pronunciation
+          o 2.2_Letter
+    * 3_Hindi
+          o 3.1_Pronunciation
+          o 3.2_Letter
+                # 3.2.1_See_also
+    * 4_Marathi
+          o 4.1_Pronunciation
+          o 4.2_Letter
+    * 5_Nepali
+          o 5.1_Pronunciation
+          o 5.2_Letter
+                # 5.2.1_See_also
+          o 5.3_References
+    * 6_Newar
+          o 6.1_Alternative_forms
+          o 6.2_Etymology
+          o 6.3_Noun
+***** Translingual[edit] *****
+[//upload.wikimedia.org/wikipedia/commons/a/a1/Deva-%E0%A4%9E-order.gif]
+English Wikipedia has an article on:
+Nya_(Indic)
+Wikipedia
+**** Pronunciation[edit] ****
+    * IPA(key): /ɲə/ (may vary by language)
+**** Letter[edit] ****
+ञ (ña)
+   1. Devanagari letter.
+*** See also[edit] ***
+Ligatures:
+    * ज्ञ (jña): ज + ञ
+***** Dhivehi[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [ɲə]
+**** Letter[edit] ****
+ञ • (ñə)
+   1. The twentieth consonant in Dhivehi, written in Devanagari
+***** Hindi[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): /ɲə/
+**** Letter[edit] ****
+ञ • (ña)
+   1. the tenth consonant in Hindi, used in Sanskrit loanwords
+*** See also[edit] ***
+    * (Devanagari script letters) अ,‎ आ,‎ इ,‎ ई,‎ उ,‎ ऊ,‎ ऋ,‎ ए,‎ ऐ,‎ ओ,‎ औ,‎
+      अं,‎ अः,‎ अँ,‎ क,‎ ख,‎ ग,‎ घ,‎ ङ,‎ च,‎ छ,‎ ज,‎ झ,‎ ञ,‎ ट,‎ ठ,‎ ड,‎ ढ,‎
+      ण,‎ त,‎ थ,‎ द,‎ ध,‎ न,‎ प,‎ फ,‎ ब,‎ भ,‎ म,‎ य,‎ र,‎ ल,‎ व,‎ श,‎ ष,‎ स,‎
+      ह,‎ त्र,‎ ज्ञ,‎ क्ष,‎ क़,‎ ख़,‎ ग़,‎ ज़,‎ झ़,‎ ड़,‎ ढ़,‎ फ़ (Category:
+      Hindi_letters) [edit]
+***** Marathi[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): /jə̃/
+**** Letter[edit] ****
+ञ • (ña)
+   1. The tenth consonant in Marathi.
+***** Nepali[edit] *****
+**** Pronunciation[edit] ****
+    * (phoneme) IPA(key): [nʌ]
+    * Phonetic Devanagari: न
+    * (letter name) IPA(key): [jʌ̃]
+    * Phonetic Devanagari: यँ
+**** Letter[edit] ****
+ञ • (ña)
+   1. The tenth consonant in Nepali.
+*** See also[edit] ***
+    * (Devanagari script letters) अ,‎ आ,‎ इ,‎ ई,‎ उ,‎ ऊ,‎ ऋ,‎ ऌ,‎ ए,‎ ऐ,‎ ओ,‎
+      औ,‎ अं,‎ अः,‎ अँ,‎ क,‎ ख,‎ ग,‎ घ,‎ ङ,‎ च,‎ छ,‎ ज,‎ झ,‎ ञ,‎ ट,‎ ठ,‎ ड,‎
+      ढ,‎ ण,‎ त,‎ थ,‎ द,‎ ध,‎ न,‎ प,‎ फ,‎ ब,‎ भ,‎ म,‎ य,‎ र,‎ ल,‎ व,‎ श,‎ ष,‎
+      स,‎ ह,‎ क्ष,‎ त्र,‎ ज्ञ (Category: Nepali_letters) [edit]
+**** References[edit] ****
+    * “ञ”, inनेपाली बृहत् शब्दकोश (Nepālī Br̥hat Śabdakoś)[Comprehensive Nepali
+      Dictionary], Kathmandu: Nepal_Academy, 2018
+***** Newar[edit] *****
+**** Alternative forms[edit] ****
+    * (Dolakhae) ङ (ṅa)
+**** Etymology[edit] ****
+From Proto-Sino-Tibetan *s-ŋja.
+**** Noun[edit] ****
+ञ • (ña) ? (Newa Spelling 𑐘)
+   1. (Kathmandu) fish
+Retrieved from "https://en.wiktionary.org/w/index.php?title=ञ&oldid=75411729"
+Categories:
+    * Character_boxes_with_images
+    * Devanagari_block
+    * Devanagari_script_characters
+    * Translingual_terms_with_IPA_pronunciation
+    * Translingual_lemmas
+    * Translingual_symbols
+    * Dhivehi_terms_with_IPA_pronunciation
+    * Dhivehi_lemmas
+    * Dhivehi_letters
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_letters
+    * Marathi_terms_with_IPA_pronunciation
+    * Marathi_lemmas
+    * Marathi_letters
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_letters
+    * Newar_terms_derived_from_Proto-Sino-Tibetan
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+Hidden categories:
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Català
+    * Español
+    * Français
+    * हिन्दी
+    * Kurdî
+    * Magyar
+    * Malagasy
+    * ဘာသာ_မန်
+    * Nederlands
+    * नेपाली
+    * 日本語
+    * Русский
+    * संस्कृतम्
+    * Српски_/_srpski
+    * Suomi
+    * ไทย
+    * 中文
+    * This page was last edited on 24 July 2023, at 16:23.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

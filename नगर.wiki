@@ -1,0 +1,374 @@
+****** नगर ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: नांगर
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Noun
+                # 1.3.1_Declension
+    * 2_Marathi
+          o 2.1_Etymology
+          o 2.2_Noun
+                # 2.2.1_References
+    * 3_Nepali
+          o 3.1_Etymology_1
+                # 3.1.1_Pronunciation
+                # 3.1.2_Noun
+          o 3.2_Etymology_2
+                # 3.2.1_Pronunciation
+                # 3.2.2_Verb
+    * 4_Newar
+          o 4.1_Etymology
+          o 4.2_Pronunciation
+          o 4.3_Noun
+    * 5_Old_Gujarati
+          o 5.1_Etymology
+          o 5.2_Noun
+    * 6_Sanskrit
+          o 6.1_Alternative_scripts
+          o 6.2_Etymology
+          o 6.3_Pronunciation
+          o 6.4_Noun
+                # 6.4.1_Declension
+          o 6.5_Adjective
+                # 6.5.1_Descendants
+          o 6.6_References
+***** Hindi[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit नगर (nágara). Doublet of -नेर (-ner).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /nə.ɡəɾ/, [n̪ə.ɡəɾ]
+**** Noun[edit] ****
+नगर • (nagar) m (Urdu spelling نگر‎)
+   1. city, town
+            Synonym: शहर (śahar)
+            तुम किस नगर से आए हो? ― tum kis nagar se āe ho? ― What city do you
+            come from?
+*** Declension[edit] ***
+Declension of नगर (masc cons-stem)
+                                    singular plural
+                           direct   नगर      नगर
+                                    nagar    nagar
+                           oblique  नगर      नगरों
+                                    nagar    nagarõ
+                           vocative नगर      नगरो
+                                    nagar    nagaro
+***** Marathi[edit] *****
+**** Etymology[edit] ****
+From Sanskrit नगर (nágara).
+**** Noun[edit] ****
+नगर • (nagar) n
+   1. city, town
+*** References[edit] ***
+    * Molesworth,_James_Thomas (1857), “नगर”, inA dictionary, Marathi and
+      English, Bombay: Printed for government at the Bombay Education Society's
+      Press
+***** Nepali[edit] *****
+**** Etymology 1[edit] ****
+Borrowed from Sanskrit नगर (nagara).
+*** Pronunciation[edit] ***
+    * IPA(key): [nʌɡ̞ʌr]
+    * Phonetic Devanagari: नगर्
+*** Noun[edit] ***
+नगर • (nagar)
+   1. city, town
+**** Etymology 2[edit] ****
+*** Pronunciation[edit] ***
+    * IPA(key): [nʌ‿ɡʌɾʌ]
+    * Phonetic Devanagari: न्a_g्aर्a
+*** Verb[edit] ***
+नगर • (nagara)
+   1. inflection of गर्नु (garnu):
+         1. stem
+         2. second-person mid respect singular negative imperative
+***** Newar[edit] *****
+**** Etymology[edit] ****
+From Sanskrit नगर (nagara).
+**** Pronunciation[edit] ****
+    * IPA(key): [nəɡəɾə]
+**** Noun[edit] ****
+नगर • (nagara) ? (Newa Spelling 𑐣𑐐𑐬)
+   1. city, town
+***** Old Gujarati[edit] *****
+**** Etymology[edit] ****
+From Sanskrit नगर (nagara).
+**** Noun[edit] ****
+नगर • (nagara) n
+   1. city
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬦᬕᬭ (Balinese script)
+    * নগৰ (Assamese script)
+    * নগর (Bengali script)
+    * 𑰡𑰐𑰨 (Bhaiksuki script)
+    * 𑀦𑀕𑀭 (Brahmi script)
+    * 𑌨𑌗𑌰 (Grantha script)
+    * નગર (Gujarati script)
+    * ਨਗਰ (Gurmukhi script)
+    * ꦤꦒꦫ (Javanese script)
+    * នគរ (Khmer script)
+    * ನಗರ (Kannada script)
+    * ນຄຣ (Lao script)
+    * നഗര (Malayalam script)
+    * 𑘡𑘐𑘨 (Modi script)
+    * ᠨᠠᠺᠠᠷᠠ᠋ (Mongolian script)
+    * ᠨᠠᡤᠠᡵᠠ (Manchu script)
+    * နဂရ (Burmese script)
+    * 𑧁𑦰𑧈 (Nandinagari script)
+    * 𑐣𑐐𑐬 (Newa script)
+    * ନଗର (Oriya script)
+    * ꢥꢔꢬ (Saurashtra script)
+    * 𑆤𑆓𑆫 (Sharada script)
+    * 𑖡𑖐𑖨 (Siddham script)
+    * නගර (Sinhalese script)
+    * నగర (Telugu script)
+    * นคร (Thai script)
+    * ན་ག་ར (Tibetan script)
+    * 𑒢𑒑𑒩 (Tirhuta script)
+**** Etymology[edit] ****
+Tedesco derives the word from a dissimilating Prakritization of an unattested
+compound *नृगर (*nṛgará, “gathering of men”), from नृ (nṛ) +‎ *गर (gara). It is
+likely the ultimate source of similar words in Dravidian; compare Old_Tamil
+𑀦𑀓𑀭𑁆 (nakar, “house, palace, temple, city”), Telugu నగరు (nagaru, “palace”).
+Southworth derives the word from Proto-South Dravidian *nakar.
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /nɐ́.ɡɐ.ɾɐ/
+    * (Classical) IPA(key): /ˈn̪ɐ.ɡɐ.ɾɐ/
+**** Noun[edit] ****
+नगर • (nágara or nagará) n
+   1. town, city
+          o c. 500 BCE – 100 BCE, Rāmāyaṇa 2.43.4:
+                  अथ स्म नगरे रामः चरन् भैक्षम् गृहे वसेत् ।
+                  काम कारः वरम् दातुम् अपि दासम् मम आत्मजम् ॥
+                        atha sma nagare rāmaḥ caran bhaikṣam gṛhe vaset .
+                        kāma kāraḥ varam dātum api dāsam mama ātmajam .
+                      # 2002 translation by K. M. K. Murthy
+                              Even giving my son to her as a slave would have
+                              been better. By that Rama would have at least
+                              stayed in the house by doing the work entrusted
+                              by her and roaming about in the city, asking
+                              alms.
+*** Declension[edit] ***
+           Neuter a-stem declension of नगर (nágara)
+                        Singular  Dual        Plural
+           Nominative   नगरम्     नगरे        नगराणि / नगरा¹
+                        nágaram   nágare      nágarāṇi / nágarā¹
+           Vocative     नगर       नगरे        नगराणि / नगरा¹
+                        nágara    nágare      nágarāṇi / nágarā¹
+           Accusative   नगरम्     नगरे        नगराणि / नगरा¹
+                        nágaram   nágare      nágarāṇi / nágarā¹
+           Instrumental नगरेण     नगराभ्याम्  नगरैः / नगरेभिः¹
+                        nágareṇa  nágarābhyām nágaraiḥ / nágarebhiḥ¹
+           Dative       नगराय     नगराभ्याम्  नगरेभ्यः
+                        nágarāya  nágarābhyām nágarebhyaḥ
+           Ablative     नगरात्    नगराभ्याम्  नगरेभ्यः
+                        nágarāt   nágarābhyām nágarebhyaḥ
+           Genitive     नगरस्य    नगरयोः      नगराणाम्
+                        nágarasya nágarayoḥ   nágarāṇām
+           Locative     नगरे      नगरयोः      नगरेषु
+                        nágare    nágarayoḥ   nágareṣu
+           Notes            * ¹Vedic
+          Neuter a-stem declension of नगर (nagará)
+                       Singular  Dual         Plural
+          Nominative   नगरम्     नगरे         नगराणि / नगरा¹
+                       nagarám   nagaré       nagarā́ṇi / nagarā́¹
+          Vocative     नगर       नगरे         नगराणि / नगरा¹
+                       nágara    nágare       nágarāṇi / nágarā¹
+          Accusative   नगरम्     नगरे         नगराणि / नगरा¹
+                       nagarám   nagaré       nagarā́ṇi / nagarā́¹
+          Instrumental नगरेण     नगराभ्याम्   नगरैः / नगरेभिः¹
+                       nagaréṇa  nagarā́bhyām nagaraíḥ / nagarébhiḥ¹
+          Dative       नगराय     नगराभ्याम्   नगरेभ्यः
+                       nagarā́ya nagarā́bhyām nagarébhyaḥ
+          Ablative     नगरात्    नगराभ्याम्   नगरेभ्यः
+                       nagarā́t  nagarā́bhyām nagarébhyaḥ
+          Genitive     नगरस्य    नगरयोः       नगराणाम्
+                       nagarásya nagaráyoḥ    nagarā́ṇām
+          Locative     नगरे      नगरयोः       नगरेषु
+                       nagaré    nagaráyoḥ    nagaréṣu
+          Notes            * ¹Vedic
+**** Adjective[edit] ****
+नगर • (nágara)
+   1. urban
+*** Descendants[edit] ***
+    * Sauraseni Prakrit: 𑀡𑀬𑀭 (ṇayara)
+    * Old Gujarati: नयर (nayara)
+    * Gujarati: નેર (ner)
+Hindi: -नेर (-ner)
+→ Assamese: নগৰ (nôgôr)
+→ Bengali: নগর (nogor)
+→ Burmese: နဂိုရ် (na.guir)
+; နဂရ (na.ga.ra.)
+→ Dhivehi: ނަގަރު‎ (nagaru)
+→ Gujarati: નગર (nagar)
+→ Hindi: नगर (nagar)
+→ Khmer: នគរ (nɔkɔɔ)
+→ Kannada: ನಗರ (nagara)
+→ Lao: ນະຄອນ (na khǭn)
+→ Lü: ᦓᦅᦸᧃ (nkoan), ᦓᦅᦟ (nkl)
+→ Malayalam: നഗരം (nagaraṁ)
+→ Malay: negara (نݢارا)
+    * Indonesian: negara
+          o → English: negara
+→ Marathi: नगर (nagar)
+→ Middle Khmer: [Term?] (“ʼaṅgara”)
+    * Khmer: អង្គរ (ʼɑngkɔɔ)
+→ Nepali: नगर (nagar)
+→ Newar: नगर (nagara)
+→ Old Gujarati: नगर (nagara)
+→ Old Javanese: nagara
+    * Javanese: ꦤꦒꦫ (nagara)
+ → ꦤꦼꦒꦫ (negara)
+→ Balinese: ᬦᬵᬕᬭ
+ → ᬦᭂᬕᬭ
+→ Old Tamil: 𑀦𑀓𑀭𑁆 (nakar)
+    * Tamil: நகர் (nakar)
+Pali: nagara
+→ Punjabi: ਨਗਰ (nagar)
+→ Sinhalese: නගරය (nagaraya)
+→ Tamil: நகரம் (nakaram)
+→ Telugu: నగరము (nagaramu)
+→ Thai: นคร (ná-kɔɔn)
+→ Urdu: نگر‎ (nagar)
+**** References[edit] ****
+    * Monier_Williams (1899), “नगर”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 525.
+    * Mayrhofer,_Manfred (1992–2001), “nágara-”, inEtymologisches Wörterbuch
+      des Altindoarischen[Etymological Dictionary of Old Indo-Aryan]‎[1] (in
+      German), volume II, Heidelberg: Carl Winter Universitätsverlag, page 5
+Retrieved from "https://en.wiktionary.org/w/index.php?title=नगर&oldid=76134270"
+Categories:
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_doublets
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_masculine_nouns
+    * Hindi_terms_with_usage_examples
+    * Hindi_masculine_consonant-stem_nouns
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_lemmas
+    * Marathi_nouns
+    * Marathi_nouns_in_Devanagari_script
+    * Marathi_neuter_nouns
+    * Nepali_terms_borrowed_from_Sanskrit
+    * Nepali_terms_derived_from_Sanskrit
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_lemmas
+    * Nepali_nouns
+    * Nepali_non-lemma_forms
+    * Nepali_verb_forms
+    * Newar_terms_borrowed_from_Sanskrit
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * Old_Gujarati_terms_borrowed_from_Sanskrit
+    * Old_Gujarati_terms_derived_from_Sanskrit
+    * Old_Gujarati_lemmas
+    * Old_Gujarati_nouns
+    * Old_Gujarati_neuter_nouns
+    * Sanskrit_compound_terms
+    * Sanskrit_terms_borrowed_from_Dravidian_languages
+    * Sanskrit_terms_derived_from_Dravidian_languages
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_neuter_nouns
+    * Sanskrit_terms_with_quotations
+    * Sanskrit_a-stem_nouns
+    * Sanskrit_adjectives
+    * Sanskrit_adjectives_in_Devanagari_script
+Hidden categories:
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/ne
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/as
+    * Middle_Khmer_term_requests
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Azərbaycanca
+    * Eesti
+    * Español
+    * Français
+    * 한국어
+    * हिन्दी
+    * Hrvatski
+    * Kurdî
+    * Lietuvių
+    * Magyar
+    * Malagasy
+    * नेपाली
+    * 日本語
+    * Polski
+    * Русский
+    * संस्कृतम्
+    * Slovenščina
+    * தமிழ்
+    * ไทย
+    * Türkçe
+    * Українська
+    * This page was last edited on 16 September 2023, at 08:55.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

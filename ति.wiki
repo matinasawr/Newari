@@ -1,0 +1,200 @@
+****** ति ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Kinnauri
+          o 1.1_Noun
+          o 1.2_References
+    * 2_Miju
+          o 2.1_Noun
+          o 2.2_References
+    * 3_Newar
+          o 3.1_Pronunciation
+          o 3.2_Noun
+    * 4_Pali
+          o 4.1_Alternative_forms
+          o 4.2_Particle
+          o 4.3_Numeral
+                # 4.3.1_Declension
+***** Kinnauri[edit] *****
+**** Noun[edit] ****
+ति (ti)
+   1. water
+**** References[edit] ****
+    * Devīdatta Śarmā, A Descriptive Grammar of Kinnauri, volume 1
+***** Miju[edit] *****
+**** Noun[edit] ****
+ति (ti)
+   1. water
+**** References[edit] ****
+    * Roger Blench, Mark Post, (De)classifying Arunachal languages:
+      Reconstructing the evidence (2011) (a later dictionary has ə̀tì)
+    * K. Das Gupta, A Phrase Book in Miju (1977)
+***** Newar[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [ti]
+**** Noun[edit] ****
+ति • (ti) ? (Newa Spelling 𑐟𑐶)
+   1. liquid
+***** Pali[edit] *****
+**** Alternative forms[edit] ****
+Alternative forms
+    * ti (Latin script)
+    * 𑀢𑀺 (Brahmi script)
+    * তি (Bengali script)
+    * ති (Sinhalese script)
+    * တိ (Burmese script)
+    * ติ (Thai script)
+    * ᨲᩥ (Tai Tham script)
+    * ຕິ (Lao script)
+    * តិ (Khmer script)
+    * 𑄖𑄨 (Chakma script)
+**** Particle[edit] ****
+ति
+   1. Devanagari_script form of ti (“thus”)
+          o c. 500 AD, Kaccāyana,Pālivyākaraṇaṃ[Pali Grammar]‎[1], page 6;
+            republished as Satish_Chandra_Acharyya_Vidyabhusana,
+            editor,Kaccayana's Pali Grammar (edited in Devanagari character and
+            translated into English), Calcutta, Bengal: Mahabodhi Society,
+            1901:
+                  या च पन सक्कतगन्थेसु समञ्ञा घोसाति वाघोसाति वा ता पयोगे सति
+                  एत्थापि पयुज्जते
+                        Yā ca pana sakkataganthesu samaññā ghosāti vāghosāti vā
+                        tā payoge sati etthāpi payujjate.
+                        And moreover that designation either 'voiced' or
+                        'unvoiced' which is in Sanskrit texts is applied even
+                        here when there is occasion.
+**** Numeral[edit] ****
+ति (ti)
+   1. Devanagari_script form of ti (“three”)
+          o c. 500 AD, Kaccāyana,Pālivyākaraṇaṃ[Pali Grammar]‎[2], page 252;
+            republished as Satish_Chandra_Acharyya_Vidyabhusana,
+            editor,Kaccayana's Pali Grammar (edited in Devanagari character and
+            translated into English), Calcutta, Bengal: Mahabodhi Society,
+            1901:
+                  सब्बेसं तिण्णं पठममज्झिमुत्तमपुरिसानं एकाभिधाने परो पुरिसो
+                  गहेतब्बो। सो च पठति, ते च पठन्ति, त्वञ्च पठसि तुम्हे च पठथ,
+                  अहञ्च पठामि = मयं पठाम; सो पचति, ते च पचन्ति, त्वञ्च पचन्ति,
+                  तुम्हे च पठथ, अहञ्च पचआमि = मयं पचाम एवं सेसासु विभत्तीसु परो
+                  पुरिसो योजेतब्बो॥
+                        Sabbesaṃ tiṇṇaṃ paṭhamamajjhimuttamapurisānaṃ
+                        ekābhidhāne paro puriso gahetabbo. So ca paṭhati, te ca
+                        paṭhanti, tvañca paṭhasi, tumhe ca paṭhatha, ahañca
+                        paṭhāmi = mayaṃ paṭhāma; so pacati, te ca pacanti,
+                        tvañca pacasi, tumhe ca pacatha, ahañca pacāmi = mayaṃ
+                        pacāma. Evaṃ sesāsu vibhattīsu paro puriso yojetabbo.
+                        With all three, third, second, and first persons, in
+                        one expression, the last person is to be taken. He
+                        reads, they read, thou readest, you read, and I read =
+                        we read; he cooks, they cook, thou cookest, you cook ,
+                        and I cook = we cook. The last person is to be applied
+                        thus for other endings.
+*** Declension[edit] ***
+Declension table of "ति" (masculine)
+                     Case \ Number        Plural
+                     Nominative (first)   तयो (tayo)
+                     Accusative (second)  तयो (tayo)
+                     Instrumental (third) तीहि (tīhi)
+                     Dative (fourth)      तिण्णं (tiṇṇaṃ)
+                     Ablative (fifth)     तीहि (tīhi)
+                     Genitive (sixth)     तिण्णं (tiṇṇaṃ)
+                     Locative (seventh)   तीसु (tīsu)
+Declension table of "ति" (feminine)
+                  Case \ Number        Plural
+                  Nominative (first)   तिस्सो (tisso)
+                  Accusative (second)  तिस्सो (tisso)
+                  Instrumental (third) तीहि (tīhi)
+                  Dative (fourth)      तिस्सन्नं (tissannaṃ)
+                  Ablative (fifth)     तीहि (tīhi)
+                  Genitive (sixth)     तिस्सन्नं (tissannaṃ)
+                  Locative (seventh)   तीसु (tīsu)
+Declension table of "ति" (neuter)
+                     Case \ Number        Plural
+                     Nominative (first)   तीणि (tīṇi)
+                     Accusative (second)  तीणि (tīṇi)
+                     Instrumental (third) तीहि (tīhi)
+                     Dative (fourth)      तिण्णं (tiṇṇaṃ)
+                     Ablative (fifth)     तीहि (tīhi)
+                     Genitive (sixth)     तिण्णं (tiṇṇaṃ)
+                     Locative (seventh)   तीसु (tīsu)
+Retrieved from "https://en.wiktionary.org/w/index.php?title=ति&oldid=72015680"
+Categories:
+    * Kinnauri_lemmas
+    * Kinnauri_nouns
+    * Miju_lemmas
+    * Miju_nouns
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * Pali_lemmas
+    * Pali_particles
+    * Pali_particles_in_Devanagari_script
+    * Pali_terms_with_quotations
+    * Pali_numerals
+Hidden categories:
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Pali_terms_with_redundant_head_parameter
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * हिन्दी
+    * Kurdî
+    * Malagasy
+    * संस्कृतम्
+    * This page was last edited on 17 March 2023, at 23:06.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]
