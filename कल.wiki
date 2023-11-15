@@ -1,0 +1,292 @@
+****** कल ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: कुल
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Adverb
+          o 1.4_Noun
+                # 1.4.1_Usage_notes
+                # 1.4.2_Declension
+          o 1.5_References
+    * 2_Newar
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+    * 3_Sanskrit
+          o 3.1_Alternative_forms
+          o 3.2_Adjective
+                # 3.2.1_Declension
+          o 3.3_Noun
+                # 3.3.1_Declension
+          o 3.4_Noun
+                # 3.4.1_Declension
+***** Hindi[edit] *****
+**** Etymology[edit] ****
+Inherited from Sanskrit कल्य (kalya).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /kəl/, [kəl̪]
+    * Rhymes: -əl
+**** Adverb[edit] ****
+कल • (kal) (Urdu spelling کل‎)
+   1. yesterday
+   2. tomorrow
+   3. any indefinite time in the past or future
+**** Noun[edit] ****
+कल • (kal) m (Urdu spelling کل‎)
+   1. yesterday
+            कल की रात ― kal kī rāt ― last night; tomorrow night
+   2. tomorrow
+            कल की रात ― kal kī rāt ― last night; tomorrow night
+   3. any indefinite time in the past or future
+*** Usage notes[edit] ***
+    * Whether the word कल means either yesterday or tomorrow is generally
+      clarified by the tense of the verb. Since Hindi verbs conjugate for both
+      the past and future tenses, it possible to know the precise meaning of
+      the word just by looking at the verb tense. If a verb is not present, the
+      meaning can be understood by context.
+*** Declension[edit] ***
+Declension of कल (masc cons-stem)
+                                    singular plural
+                           direct   कल       कल
+                                    kal      kal
+                           oblique  कल       कलों
+                                    kal      kalõ
+                           vocative कल       कलो
+                                    kal      kalo
+**** References[edit] ****
+    * McGregor,_Ronald_Stuart (1993), “कल”, inThe Oxford Hindi-English
+      Dictionary, London: Oxford University Press
+***** Newar[edit] *****
+**** Etymology[edit] ****
+(This etymology is missing or incomplete. Please add to it, or discuss it at
+the Etymology_scriptorium.)
+**** Pronunciation[edit] ****
+    * IPA(key): [kələ]
+**** Noun[edit] ****
+कल • (kala) ? (Newa Spelling 𑐎𑐮)
+   1. machine, device
+***** Sanskrit[edit] *****
+**** Alternative forms[edit] ****
+Alternative scripts
+    * ᬓᬮ (Balinese script)
+    * কল (Assamese script)
+    * কল (Bengali script)
+    * 𑰎𑰩 (Bhaiksuki script)
+    * 𑀓𑀮 (Brahmi script)
+    * 𑌕𑌲 (Grantha script)
+    * કલ (Gujarati script)
+    * ਕਲ (Gurmukhi script)
+    * ꦏꦭ (Javanese script)
+    * កល (Khmer script)
+    * ಕಲ (Kannada script)
+    * ກລ (Lao script)
+    * കല (Malayalam script)
+    * 𑘎𑘩 (Modi script)
+    * ᢉᠠᠯᠠ᠋ (Mongolian script)
+    * ᡬᠠᠯᠠ (Manchu script)
+    * ကလ (Burmese script)
+    * 𑦮𑧉 (Nandinagari script)
+    * 𑐎𑐮 (Newa script)
+    * କଲ (Oriya script)
+    * ꢒꢭ (Saurashtra script)
+    * 𑆑𑆬 (Sharada script)
+    * 𑖎𑖩 (Siddham script)
+    * කල (Sinhalese script)
+    * కల (Telugu script)
+    * กล (Thai script)
+    * ཀ་ལ (Tibetan script)
+    * 𑒏𑒪 (Tirhuta script)
+**** Adjective[edit] ****
+कल • (kala)
+   1. indistinct, dumb
+   2. indistinct or inarticulate (on account of tears)
+   3. low, soft (as a tone), emitting a soft tone, melodious (as a voice or
+      throat)
+   4. a kind of faulty pronunciation of vowels
+   5. weak, crude, undigested
+*** Declension[edit] ***
+Masculine a-stem declension of कल
+Nom. sg.     कलः (kalaḥ)
+Gen. sg.     कलस्य (kalasya)
+             Singular        Dual                  Plural
+Nominative   कलः (kalaḥ)     कलौ (kalau)           कलाः (kalāḥ)
+Vocative     कल (kala)       कलौ (kalau)           कलाः (kalāḥ)
+Accusative   कलम् (kalam)    कलौ (kalau)           कलान् (kalān)
+Instrumental कलेन (kalena)   कलाभ्याम् (kalābhyām) कलैः (kalaiḥ)
+Dative       कलाय (kalāya)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Ablative     कलात् (kalāt)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Genitive     कलस्य (kalasya) कलयोः (kalayoḥ)       कलानाम् (kalānām)
+Locative     कले (kale)      कलयोः (kalayoḥ)       कलेषु (kaleṣu)
+Feminine ā-stem declension of कल
+Nom. sg.     कला (kalā)
+Gen. sg.     कलायाः (kalāyāḥ)
+             Singular          Dual                  Plural
+Nominative   कला (kalā)        कले (kale)            कलाः (kalāḥ)
+Vocative     कले (kale)        कले (kale)            कलाः (kalāḥ)
+Accusative   कलाम् (kalām)     कले (kale)            कलाः (kalāḥ)
+Instrumental कलया (kalayā)     कलाभ्याम् (kalābhyām) कलाभिः (kalābhiḥ)
+Dative       कलायै (kalāyai)   कलाभ्याम् (kalābhyām) कलाभ्यः (kalābhyaḥ)
+Ablative     कलायाः (kalāyāḥ)  कलाभ्याम् (kalābhyām) कलाभ्यः (kalābhyaḥ)
+Genitive     कलायाः (kalāyāḥ)  कलयोः (kalayoḥ)       कलानाम् (kalānām)
+Locative     कलायाम् (kalāyām) कलयोः (kalayoḥ)       कलासु (kalāsu)
+Neuter a-stem declension of कल
+Nom. sg.     कलम् (kalam)
+Gen. sg.     कलस्य (kalasya)
+             Singular        Dual                  Plural
+Nominative   कलम् (kalam)    कले (kale)            कलानि (kalāni)
+Vocative     कल (kala)       कले (kale)            कलानि (kalāni)
+Accusative   कलम् (kalam)    कले (kale)            कलानि (kalāni)
+Instrumental कलेन (kalena)   कलाभ्याम् (kalābhyām) कलैः (kalaiḥ)
+Dative       कलाय (kalāya)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Ablative     कलात् (kalāt)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Genitive     कलस्य (kalasya) कलयोः (kalayoḥ)       कलानाम् (kalānām)
+Locative     कले (kale)      कलयोः (kalayoḥ)       कलेषु (kaleṣu)
+**** Noun[edit] ****
+कल • (kala) m
+   1. a low or soft and inarticulate tone (as humming, buzzing etc.)
+   2. Shorea_robusta, the shala_tree
+   3. (poetry) time equal to four matras or instants
+   4. (in the plural) a class of manes (clarification of this definition is
+      needed)
+*** Declension[edit] ***
+Masculine a-stem declension of कल
+Nom. sg.     कलः (kalaḥ)
+Gen. sg.     कलस्य (kalasya)
+             Singular        Dual                  Plural
+Nominative   कलः (kalaḥ)     कलौ (kalau)           कलाः (kalāḥ)
+Vocative     कल (kala)       कलौ (kalau)           कलाः (kalāḥ)
+Accusative   कलम् (kalam)    कलौ (kalau)           कलान् (kalān)
+Instrumental कलेन (kalena)   कलाभ्याम् (kalābhyām) कलैः (kalaiḥ)
+Dative       कलाय (kalāya)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Ablative     कलात् (kalāt)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Genitive     कलस्य (kalasya) कलयोः (kalayoḥ)       कलानाम् (kalānām)
+Locative     कले (kale)      कलयोः (kalayoḥ)       कलेषु (kaleṣu)
+**** Noun[edit] ****
+कल • (kala) n
+   1. (anatomy) penis
+   2. Ziziphus_zizyphus ( ⇒ Ziziphus_jujuba)
+*** Declension[edit] ***
+Neuter a-stem declension of कल
+Nom. sg.     कलम् (kalam)
+Gen. sg.     कलस्य (kalasya)
+             Singular        Dual                  Plural
+Nominative   कलम् (kalam)    कले (kale)            कलानि (kalāni)
+Vocative     कल (kala)       कले (kale)            कलानि (kalāni)
+Accusative   कलम् (kalam)    कले (kale)            कलानि (kalāni)
+Instrumental कलेन (kalena)   कलाभ्याम् (kalābhyām) कलैः (kalaiḥ)
+Dative       कलाय (kalāya)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Ablative     कलात् (kalāt)   कलाभ्याम् (kalābhyām) कलेभ्यः (kalebhyaḥ)
+Genitive     कलस्य (kalasya) कलयोः (kalayoḥ)       कलानाम् (kalānām)
+Locative     कले (kale)      कलयोः (kalayoḥ)       कलेषु (kaleṣu)
+Retrieved from "https://en.wiktionary.org/w/index.php?title=कल&oldid=72008680"
+Categories:
+    * Hindi_terms_inherited_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Rhymes:Hindi/əl
+    * Rhymes:Hindi/əl/1_syllable
+    * Hindi_lemmas
+    * Hindi_adverbs
+    * Hindi_nouns
+    * Hindi_masculine_nouns
+    * Hindi_terms_with_usage_examples
+    * Hindi_masculine_consonant-stem_nouns
+    * hi:Time
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Machines
+    * Sanskrit_lemmas
+    * Sanskrit_adjectives
+    * Sanskrit_adjectives_in_Devanagari_script
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+    * sa:Poetry
+    * Sanskrit_neuter_nouns
+    * sa:Anatomy
+Hidden categories:
+    * Requests_for_etymologies_in_Newar_entries
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Entries_missing_English_vernacular_names_of_taxa
+    * Requests_for_clarification_of_definitions_in_Sanskrit_entries
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Català
+    * Français
+    * 한국어
+    * हिन्दी
+    * कॉशुर_/_کٲشُر
+    * Kurdî
+    * Lietuvių
+    * Magyar
+    * Malagasy
+    * Na_Vosa_Vakaviti
+    * नेपाली
+    * Polski
+    * Русский
+    * संस्कृतम्
+    * Tagalog
+    * தமிழ்
+    * Türkçe
+    * This page was last edited on 17 March 2023, at 22:56.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

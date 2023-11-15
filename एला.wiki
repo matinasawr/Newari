@@ -1,0 +1,178 @@
+****** एला ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Newar
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Noun
+    * 2_Sanskrit
+          o 2.1_Alternative_forms
+          o 2.2_Alternative_scripts
+          o 2.3_Etymology
+          o 2.4_Pronunciation
+          o 2.5_Noun
+                # 2.5.1_Declension
+                # 2.5.2_Descendants
+                # 2.5.3_References
+***** Newar[edit] *****
+**** Etymology[edit] ****
+From Sanskrit एला (elā).
+**** Pronunciation[edit] ****
+    * IPA(key): [ela]
+**** Noun[edit] ****
+एला • (elā) ? (Newa Spelling 𑐊𑐮𑐵)
+   1. cardamom
+***** Sanskrit[edit] *****
+**** Alternative forms[edit] ****
+    * एलि (eli)
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬏᬮᬵ (Balinese script)
+    * এলা (Assamese script)
+    * এলা (Bengali script)
+    * 𑰊𑰩𑰯 (Bhaiksuki script)
+    * 𑀏𑀮𑀸 (Brahmi script)
+    * 𑌏𑌲𑌾 (Grantha script)
+    * એલા (Gujarati script)
+    * ਏਲਾ (Gurmukhi script)
+    * ꦌꦭꦴ (Javanese script)
+    * ឯលា (Khmer script)
+    * ಏಲಾ (Kannada script)
+    * ເອລາ (Lao script)
+    * ഏലാ (Malayalam script)
+    * 𑘊𑘩𑘰 (Modi script)
+    * ᠧᠯᠠ᠋᠎ᠠ (Mongolian script)
+    * ᡝᠯᠠᢇ (Manchu script)
+    * ဧလာ (Burmese script)
+    * 𑦪𑧉𑧑 (Nandinagari script)
+    * 𑐊𑐮𑐵 (Newa script)
+    * ଏଲା (Oriya script)
+    * ꢍꢭꢵ (Saurashtra script)
+    * 𑆍𑆬𑆳 (Sharada script)
+    * 𑖊𑖩𑖯 (Siddham script)
+    * ඒලා (Sinhalese script)
+    * ఏలా (Telugu script)
+    * เอลา (Thai script)
+    * ཨེ་ལཱ (Tibetan script)
+    * 𑒋𑒪𑒰 (Tirhuta script)
+**** Etymology[edit] ****
+Borrowed from Proto-Dravidian *ēla (“cardamom”). Compare also Tamil ஏலம்
+(ēlam), Malayalam ഏലം (ēlaṁ) and Telugu ఏల (ēla).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /ɐj.lɑː/
+    * (Classical) IPA(key): /ˈeː.l̪ɑː/
+**** Noun[edit] ****
+एला • (elā) f
+   1. cardamom
+*** Declension[edit] ***
+Feminine ā-stem declension of एला
+Nom. sg.     एला (elā)
+Gen. sg.     एलायाः (elāyāḥ)
+             Singular         Dual                 Plural
+Nominative   एला (elā)        एले (ele)            एलाः (elāḥ)
+Vocative     एले (ele)        एले (ele)            एलाः (elāḥ)
+Accusative   एलाम् (elām)     एले (ele)            एलाः (elāḥ)
+Instrumental एलया (elayā)     एलाभ्याम् (elābhyām) एलाभिः (elābhiḥ)
+Dative       एलायै (elāyai)   एलाभ्याम् (elābhyām) एलाभ्यः (elābhyaḥ)
+Ablative     एलायाः (elāyāḥ)  एलाभ्याम् (elābhyām) एलाभ्यः (elābhyaḥ)
+Genitive     एलायाः (elāyāḥ)  एलयोः (elayoḥ)       एलानाम् (elānām)
+Locative     एलायाम् (elāyām) एलयोः (elayoḥ)       एलासु (elāsu)
+*** Descendants[edit] ***
+    * Konkani: एळु (ailu), येळु (yelu)
+Kashmiri: ٲل‎ (ạ̄l), ॴल (ạ̄l)
+Bengali: এলা (ela)
+Gujarati: લીલા (līlā)
+Old Marathi: एळा (eḷā), वेळा (veḷā)
+    * Marathi: एळा (eḷā), वेळा (veḷā)
+Newar: एला (elā)
+→ Classical Mongolian: ᠧᠯᠡ (ēle)
+→ Pashto: اېل‎ (el)
+→ Persian: هل‎ (hel)
+→ Tibetan: ཨེ་ལ (e la)
+*** References[edit] ***
+    * Monier_Williams (1899), “एला”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 232/2..
+Retrieved from "https://en.wiktionary.org/w/index.php?title=एला&oldid=71713449"
+Categories:
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * Sanskrit_terms_borrowed_from_Proto-Dravidian
+    * Sanskrit_terms_derived_from_Proto-Dravidian
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_feminine_nouns
+    * sa:Spices
+Hidden categories:
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Sanskrit_entries_with_topic_categories_using_raw_markup
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/kok
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Malagasy
+    * Polski
+    * संस्कृतम्
+    * 中文
+    * This page was last edited on 17 March 2023, at 16:25.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

@@ -1,0 +1,228 @@
+****** चिकित्सक ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Hindi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Noun
+                # 1.3.1_Declension
+    * 2_Marathi
+          o 2.1_Etymology
+          o 2.2_Noun
+    * 3_Newar
+          o 3.1_Etymology
+          o 3.2_Pronunciation
+          o 3.3_Noun
+    * 4_Sanskrit
+          o 4.1_Alternative_scripts
+          o 4.2_Etymology
+          o 4.3_Pronunciation
+          o 4.4_Noun
+                # 4.4.1_Declension
+          o 4.5_References
+***** Hindi[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit चिकित्सक (cikitsaka).
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /t͡ʃɪ.kɪt̪.sək/, [t͡ʃɪ.kɪt̪.s̪ək]
+**** Noun[edit] ****
+चिकित्सक • (cikitsak) m
+   1. physician, doctor
+            Synonyms: डॉक्टर (ḍŏkṭar), वैद्य (vaidya)
+*** Declension[edit] ***
+Declension of चिकित्सक (masc cons-stem)
+                                  singular plural
+                         direct   चिकित्सक चिकित्सक
+                                  cikitsak cikitsak
+                         oblique  चिकित्सक चिकित्सकों
+                                  cikitsak cikitsakõ
+                         vocative चिकित्सक चिकित्सको
+                                  cikitsak cikitsako
+***** Marathi[edit] *****
+**** Etymology[edit] ****
+From Sanskrit चिकित्सक (cikitsaka).
+**** Noun[edit] ****
+चिकित्सक • (cikitsak) m
+   1. doctor
+***** Newar[edit] *****
+**** Etymology[edit] ****
+Borrowed from Sanskrit चिकित्सक (cikitsaka).
+**** Pronunciation[edit] ****
+    * IPA(key): [t͡ɕikitsək]
+**** Noun[edit] ****
+चिकित्सक • (cikitsak) ? (Newa Spelling 𑐔𑐶𑐎𑐶𑐟𑑂𑐳𑐎)
+   1. doctor
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬘᬶᬓᬶᬢ᭄ᬲᬓ (Balinese script)
+    * চিকিত্সক (Assamese script)
+    * চিকিত্সক (Bengali script)
+    * 𑰓𑰰𑰎𑰰𑰝𑰿𑰭𑰎 (Bhaiksuki script)
+    * 𑀘𑀺𑀓𑀺𑀢𑁆𑀲𑀓 (Brahmi script)
+    * 𑌚𑌿𑌕𑌿𑌤𑍍𑌸𑌕 (Grantha script)
+    * ચિકિત્સક (Gujarati script)
+    * ਚਿਕਿਤੑਸਕ (Gurmukhi script)
+    * ꦕꦶꦏꦶꦠ꧀ꦱꦏ (Javanese script)
+    * ចិកិត្សក (Khmer script)
+    * ಚಿಕಿತ್ಸಕ (Kannada script)
+    * ຈິກິຕ຺ສກ (Lao script)
+    * ചികിത്സക (Malayalam script)
+    * 𑘓𑘱𑘎𑘱𑘝𑘿𑘭𑘎 (Modi script)
+    * ᢋᠢᢉᠢᢐᠰᠠᢉᠠ (Mongolian script)
+    * ᢜᡳᡬᡳᢠᠰ᠌ᠠᡬᠠ (Manchu script)
+    * စိကိတ္သက (Burmese script)
+    * 𑦳𑧒𑦮𑧒𑦽𑧠𑧍𑦮 (Nandinagari script)
+    * 𑐔𑐶𑐎𑐶𑐟𑑂𑐳𑐎 (Newa script)
+    * ଚିକିତ୍ସକ (Oriya script)
+    * ꢗꢶꢒꢶꢡ꣄ꢱꢒ (Saurashtra script)
+    * 𑆖𑆴𑆑𑆴𑆠𑇀𑆱𑆑 (Sharada script)
+    * 𑖓𑖰𑖎𑖰𑖝𑖿𑖭𑖎 (Siddham script)
+    * චිකිත්සක (Sinhalese script)
+    * చికిత్సక (Telugu script)
+    * จิกิตฺสก (Thai script)
+    * ཙི་ཀི་ཏྶ་ཀ (Tibetan script)
+    * 𑒔𑒱𑒏𑒱𑒞𑓂𑒮𑒏 (Tirhuta script)
+**** Etymology[edit] ****
+From चिकित्सा (cikitsā) +‎ -अक (-aka).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /t͡ɕi.kit.sɐ.kɐ/
+    * (Classical) IPA(key): /t͡ɕiˈkit̪.s̪ɐ.kɐ/
+**** Noun[edit] ****
+चिकित्सक • (cikitsaka) m (feminine चिकित्सिका)
+   1. doctor, physician
+*** Declension[edit] ***
+    Masculine a-stem declension of चिकित्सक (cikitsaka)
+                 Singular     Dual            Plural
+    Nominative   चिकित्सकः    चिकित्सकौ       चिकित्सकाः / चिकित्सकासः¹
+                 cikitsakaḥ   cikitsakau      cikitsakāḥ / cikitsakāsaḥ¹
+    Vocative     चिकित्सक     चिकित्सकौ       चिकित्सकाः / चिकित्सकासः¹
+                 cikitsaka    cikitsakau      cikitsakāḥ / cikitsakāsaḥ¹
+    Accusative   चिकित्सकम्   चिकित्सकौ       चिकित्सकान्
+                 cikitsakam   cikitsakau      cikitsakān
+    Instrumental चिकित्सकेन   चिकित्सकाभ्याम् चिकित्सकैः / चिकित्सकेभिः¹
+                 cikitsakena  cikitsakābhyām  cikitsakaiḥ / cikitsakebhiḥ¹
+    Dative       चिकित्सकाय   चिकित्सकाभ्याम् चिकित्सकेभ्यः
+                 cikitsakāya  cikitsakābhyām  cikitsakebhyaḥ
+    Ablative     चिकित्सकात्  चिकित्सकाभ्याम् चिकित्सकेभ्यः
+                 cikitsakāt   cikitsakābhyām  cikitsakebhyaḥ
+    Genitive     चिकित्सकस्य  चिकित्सकयोः     चिकित्सकानाम्
+                 cikitsakasya cikitsakayoḥ    cikitsakānām
+    Locative     चिकित्सके    चिकित्सकयोः     चिकित्सकेषु
+                 cikitsake    cikitsakayoḥ    cikitsakeṣu
+    Notes            * ¹Vedic
+**** References[edit] ****
+    * Monier_Williams (1899), “चिकित्सक”, inA Sanskrit–English Dictionary, […],
+      new edition, Oxford: At the Clarendon_Press, →OCLC, page 395.
+Retrieved from "https://en.wiktionary.org/w/
+index.php?title=चिकित्सक&oldid=72165727"
+Categories:
+    * Hindi_terms_borrowed_from_Sanskrit
+    * Hindi_terms_derived_from_Sanskrit
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_lemmas
+    * Hindi_nouns
+    * Hindi_masculine_nouns
+    * Hindi_masculine_consonant-stem_nouns
+    * hi:Occupations
+    * hi:Healthcare
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_lemmas
+    * Marathi_nouns
+    * Marathi_nouns_in_Devanagari_script
+    * Marathi_masculine_nouns
+    * mr:Occupations
+    * Newar_terms_borrowed_from_Sanskrit
+    * Newar_terms_derived_from_Sanskrit
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Occupations
+    * new:Healthcare
+    * Sanskrit_terms_suffixed_with_-अक
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+    * Sanskrit_a-stem_nouns
+    * sa:Occupations
+Hidden categories:
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/new
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Català
+    * हिन्दी
+    * Bahasa_Indonesia
+    * Kurdî
+    * ລາວ
+    * Malagasy
+    * नेपाली
+    * Occitan
+    * Русский
+    * संस्कृतम्
+    * Slovenščina
+    * 中文
+    * This page was last edited on 18 March 2023, at 03:39.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

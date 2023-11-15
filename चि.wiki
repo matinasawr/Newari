@@ -1,0 +1,197 @@
+****** चि ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Khaling
+          o 1.1_Etymology
+          o 1.2_Noun
+    * 2_Newar
+          o 2.1_Etymology
+          o 2.2_Pronunciation
+          o 2.3_Noun
+    * 3_Sanskrit
+          o 3.1_Alternative_scripts
+          o 3.2_Pronunciation
+          o 3.3_Etymology_1
+                # 3.3.1_Root
+                      # 3.3.1.1_Derived_terms
+          o 3.4_Etymology_2
+                # 3.4.1_Root
+          o 3.5_References
+***** Khaling[edit] *****
+**** Etymology[edit] ****
+(This etymology is missing or incomplete. Please add to it, or discuss it at
+the Etymology_scriptorium.)
+**** Noun[edit] ****
+चि (ci)
+   1. beer
+***** Newar[edit] *****
+**** Etymology[edit] ****
+From Classical_Newar 𑐔𑐷 (cī), perhaps from Proto-Sino-Tibetan *tsa (“salt”).
+Cognate to Thangmi छ्या, Chepang छेः.
+**** Pronunciation[edit] ****
+    * IPA(key): [t͡ɕi]
+**** Noun[edit] ****
+चि • (ci) ? (Newa Spelling 𑐔𑐶)
+   1. salt
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬘᬶ (Balinese script)
+    * চি (Assamese script)
+    * চি (Bengali script)
+    * 𑰓𑰰 (Bhaiksuki script)
+    * 𑀘𑀺 (Brahmi script)
+    * 𑌚𑌿 (Grantha script)
+    * ચિ (Gujarati script)
+    * ਚਿ (Gurmukhi script)
+    * ꦕꦶ (Javanese script)
+    * ចិ (Khmer script)
+    * ಚಿ (Kannada script)
+    * ຈິ (Lao script)
+    * ചി (Malayalam script)
+    * 𑘓𑘱 (Modi script)
+    * ᢋᠢ (Mongolian script)
+    * ᢜᡳ (Manchu script)
+    * စိ (Burmese script)
+    * 𑦳𑧒 (Nandinagari script)
+    * 𑐔𑐶 (Newa script)
+    * ଚି (Oriya script)
+    * ꢗꢶ (Saurashtra script)
+    * 𑆖𑆴 (Sharada script)
+    * 𑖓𑖰 (Siddham script)
+    * චි (Sinhalese script)
+    * చి (Telugu script)
+    * จิ (Thai script)
+    * ཙི (Tibetan script)
+    * 𑒔𑒱 (Tirhuta script)
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /t͡ɕi/
+    * (Classical) IPA(key): /t͡ɕi/
+**** Etymology 1[edit] ****
+From Proto-Indo-European *kʷey- (“to collect, gather, pile, build”).
+*** Root[edit] ***
+चि • (ci)
+   1. to arrange in order, pile up, construct
+   2. to collect, gather, accumulate, acquire
+   3. to cover, inlay
+** Derived terms[edit] **
+    * चित (citá)
+    * चिता (citā́)
+    * चिनोति (cinóti)
+ 
+**** Etymology 2[edit] ****
+From Proto-Indo-European *kʷey- (“to observe, perceive”).
+*** Root[edit] ***
+चि • (ci)
+   1. to observe, perceive
+   2. to fix the gaze upon, be intent upon
+   3. to seek for, investigate, search through
+**** References[edit] ****
+    * Monier_Williams (1899), “चि”, inA Sanskrit–English Dictionary, […], new
+      edition, Oxford: At the Clarendon_Press, →OCLC, page 0394.
+    * Arthur_Anthony_Macdonell (1893), “चि”, inA practical Sanskrit dictionary
+      with transliteration, accentuation, and etymological analysis throughout,
+      London: Oxford University Press
+    * William_Dwight_Whitney, 1885, The Roots, Verb-forms, and Primary
+      Derivatives of the Sanskrit Language, Leipzig: Breitkopf and Härtel, page
+      046
+    * Otto_Böhtlingk; Richard Schmidt (1879-1928), “चि”, in Walter Slaje,
+      Jürgen Hanneder, Paul Molitor, Jörg Ritter, editors,Nachtragswörterbuch
+      des Sanskrit[Dictionary of Sanskrit with supplements] (in German), Halle-
+      Wittenberg: Martin-Luther-Universität, published 2016
+    * Mallory,_J._P.; Adams,_D._Q. (2006)The Oxford Introduction to Proto-Indo-
+      European and the Proto-Indo-European World(Oxford Linguistics), New York:
+      Oxford University Press, →ISBN, page 220
+    * Rix,_Helmut, editor (2001)Lexikon_der_indogermanischen_Verben[Lexicon of
+      Indo-European Verbs]‎[1] (in German), 2nd edition, Wiesbaden: Dr. Ludwig
+      Reichert Verlag, →ISBN, pages 378
+    * Pokorny,_Julius (1959), “0637”, inIndogermanisches_etymologisches
+      Wörterbuch[Indo-European Etymological Dictionary] (in German), volume 2,
+      Bern, München: Francke Verlag, page 0637
+Retrieved from "https://en.wiktionary.org/w/index.php?title=चि&oldid=71988670"
+Categories:
+    * Khaling_lemmas
+    * Khaling_nouns
+    * Newar_terms_inherited_from_Classical_Newar
+    * Newar_terms_derived_from_Classical_Newar
+    * Newar_terms_derived_from_Proto-Sino-Tibetan
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Foods
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_terms_inherited_from_Proto-Indo-European
+    * Sanskrit_terms_derived_from_Proto-Indo-European
+    * Sanskrit_lemmas
+    * Sanskrit_roots
+Hidden categories:
+    * Requests_for_etymologies_in_Khaling_entries
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * Kurdî
+    * Magyar
+    * Malagasy
+    * Русский
+    * संस्कृतम्
+    * This page was last edited on 17 March 2023, at 22:30.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

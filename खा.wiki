@@ -1,0 +1,193 @@
+****** खा ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+??
+***** Contents *****
+    * 1_Dura
+          o 1.1_Verb
+          o 1.2_References
+    * 2_Hindi
+          o 2.1_Pronunciation
+          o 2.2_Verb
+    * 3_Nepali
+          o 3.1_Pronunciation
+          o 3.2_Verb
+    * 4_Newar
+          o 4.1_Etymology_1
+                # 4.1.1_Pronunciation
+                # 4.1.2_Noun
+          o 4.2_Etymology_2
+                # 4.2.1_Noun
+    * 5_Sanskrit
+          o 5.1_Etymology
+          o 5.2_Pronunciation
+          o 5.3_Noun
+                # 5.3.1_Declension
+***** Dura[edit] *****
+**** Verb[edit] ****
+खा
+   1. to go
+**** References[edit] ****
+    * N. Schorer, The_Dura_Language:_Grammar_and_Phylogeny
+***** Hindi[edit] *****
+**** Pronunciation[edit] ****
+    * (Delhi Hindi) IPA(key): /kʰɑː/, [kʰäː]
+**** Verb[edit] ****
+खा • (khā)
+   1. inflection of खाना (khānā):
+         1. stem
+         2. second-person singular intimate present imperative
+***** Nepali[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [kʰä]
+    * Phonetic Devanagari: खा
+**** Verb[edit] ****
+खा • (khā)
+   1. inflection of खानु (khānu):
+         1. stem
+         2. low-respectful second-person singular imperative
+***** Newar[edit] *****
+**** Etymology 1[edit] ****
+(This etymology is missing or incomplete. Please add to it, or discuss it at
+the Etymology_scriptorium.)
+*** Pronunciation[edit] ***
+    * IPA(key): [kʰa]
+*** Noun[edit] ***
+खा • (khā) ? (Newa Spelling 𑐏𑐵)
+   1. glass
+**** Etymology 2[edit] ****
+(This etymology is missing or incomplete. Please add to it, or discuss it at
+the Etymology_scriptorium.)
+*** Noun[edit] ***
+खा • (khā) ? (Newa Spelling 𑐏𑐵)
+   1. chicken
+***** Sanskrit[edit] *****
+**** Etymology[edit] ****
+From Proto-Indo-Iranian *kʰā́ (“spring, source”). Cognate with Avestan 𐬑𐬁‎ (xā,
+“spring, source”).
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /kʰɑ́ː/
+    * (Classical) IPA(key): /kʰɑː/
+**** Noun[edit] ****
+खा • (khā́) f
+   1. spring, well, fountain
+          o c. 1700 BCE – 1200 BCE, Ṛgveda 6.36.4:
+                  स रायस्खाम्उप सृजा गृणानः पुरुश्चन्द्रस्य त्वमिन्द्र वस्वः।
+                  पतिर्बभूथासमो जनानामेको विश्वस्य भुवनस्य राजा॥
+                        sa rāyaskhāmupa sṛjā gṛṇānaḥ puruścandrasya tvamindra
+                        vasvaḥ.
+                        patirbabhūthāsamo janānāmeko viśvasya bhuvanasya rājā.
+                        Lauded by us, let flow the spring, O Indra, of
+                        excellent and brightly-shining riches.
+                        For thou art Lord of men, without an equal: of all the
+                        world thou art the only sovereign.
+*** Declension[edit] ***
+Feminine ā-stem declension of खा
+Nom. sg.     खा (khā)
+Gen. sg.     खायाः (khāyāḥ)
+             Singular        Dual                Plural
+Nominative   खा (khā)        खे (khe)            खाः (khāḥ)
+Vocative     खे (khe)        खे (khe)            खाः (khāḥ)
+Accusative   खाम् (khām)     खे (khe)            खाः (khāḥ)
+Instrumental खया (khayā)     खाभ्याम् (khābhyām) खाभिः (khābhiḥ)
+Dative       खायै (khāyai)   खाभ्याम् (khābhyām) खाभ्यः (khābhyaḥ)
+Ablative     खायाः (khāyāḥ)  खाभ्याम् (khābhyām) खाभ्यः (khābhyaḥ)
+Genitive     खायाः (khāyāḥ)  खयोः (khayoḥ)       खानाम् (khānām)
+Locative     खायाम् (khāyām) खयोः (khayoḥ)       खासु (khāsu)
+Retrieved from "https://en.wiktionary.org/w/index.php?title=खा&oldid=72905860"
+Categories:
+    * Dura_lemmas
+    * Dura_verbs
+    * Hindi_terms_with_IPA_pronunciation
+    * Hindi_non-lemma_forms
+    * Hindi_verb_forms
+    * Nepali_terms_with_IPA_pronunciation
+    * Nepali_non-lemma_forms
+    * Nepali_verb_forms
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * new:Birds
+    * new:Materials
+    * Sanskrit_terms_derived_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-Aryan
+    * Sanskrit_terms_inherited_from_Proto-Indo-Iranian
+    * Sanskrit_terms_derived_from_Proto-Indo-Iranian
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_feminine_nouns
+    * Sanskrit_terms_with_quotations
+Hidden categories:
+    * Requests_for_etymologies_in_Newar_entries
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Terms_with_manual_transliterations_different_from_the_automated_ones
+    * Terms_with_manual_transliterations_different_from_the_automated_ones/sa
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * 한국어
+    * हिन्दी
+    * Kurdî
+    * Malagasy
+    * नेपाली
+    * Русский
+    * संस्कृतम्
+    * Slovenščina
+    * This page was last edited on 3 May 2023, at 13:33.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]

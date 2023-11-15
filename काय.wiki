@@ -1,0 +1,234 @@
+****** काय ******
+From Wiktionary, the free dictionary
+Jump_to_navigation Jump_to_search
+See also: क्यों, काया, क्यूँ, क्या, and किया
+??
+***** Contents *****
+    * 1_Marathi
+          o 1.1_Etymology
+          o 1.2_Pronunciation
+          o 1.3_Pronoun
+          o 1.4_See_also
+          o 1.5_References
+    * 2_Newar
+          o 2.1_Pronunciation
+          o 2.2_Noun
+    * 3_Pali
+          o 3.1_Alternative_forms
+          o 3.2_Etymology_1
+                # 3.2.1_Noun
+                      # 3.2.1.1_Declension
+          o 3.3_Etymology_2
+                # 3.3.1_Pronoun
+    * 4_Sanskrit
+          o 4.1_Alternative_scripts
+          o 4.2_Pronunciation
+          o 4.3_Noun
+                # 4.3.1_Derived_terms
+                # 4.3.2_Descendants
+***** Marathi[edit] *****
+**** Etymology[edit] ****
+Inherited from Sanskrit *कादृक् (kādṛk), from कीदृश (kīdṛśa) + -क (-ka).
+Cognate to Gujarati કે (ke), Hindi क्या (kyā).
+**** Pronunciation[edit] ****
+    * IPA(key): /kaj/
+**** Pronoun[edit] ****
+काय • (kāy)
+   1. what
+            तुझं नाव काय?
+                  tuj̈ha nāv kāy?
+                  What is your name? (informal)
+**** See also[edit] ****
+    * कधी (kadhī)
+    * कसे (kase)
+    * का (kā)
+    * कोण (koṇ)
+    * कोणते (koṇte)
+**** References[edit] ****
+    * Turner,_Ralph_Lilley (1969–1985), “kīdŕ̊k”, inA Comparative Dictionary of
+      the Indo-Aryan Languages, London: Oxford University Press
+***** Newar[edit] *****
+**** Pronunciation[edit] ****
+    * IPA(key): [kajə]
+**** Noun[edit] ****
+काय • (kāya) ? (Newa Spelling 𑐎𑐵𑐫)
+   1. son
+***** Pali[edit] *****
+**** Alternative forms[edit] ****
+Alternative forms
+    * kāya (Latin script)
+    * 𑀓𑀸𑀬 (Brahmi script)
+    * কায (Bengali script)
+    * කාය (Sinhalese script)
+    * ကာယ or ၵႃယ (Burmese script)
+    * กาย or กายะ (Thai script)
+    * ᨠᩣᨿ (Tai Tham script)
+    * ກາຍ or ກາຍະ or ກາຢະ (Lao script)
+    * កាយ (Khmer script)
+    * 𑄇𑄂𑄠 (Chakma script)
+**** Etymology 1[edit] ****
+*** Noun[edit] ***
+काय m
+   1. Devanagari_script form of kāya
+** Declension[edit] **
+Declension table of "काय" (masculine)
+Case \ Number        Singular                        Plural
+Nominative (first)   कायो (kāyo)                     काया (kāyā)
+Accusative (second)  कायं (kāyaṃ)                    काये (kāye)
+Instrumental (third) कायेन (kāyena)                  कायेहि (kāyehi) or कायेभि
+                                                     (kāyebhi)
+Dative (fourth)      कायस्स (kāyassa) or कायाय       कायानं (kāyānaṃ)
+                     (kāyāya) or कायत्थं (kāyatthaṃ)
+Ablative (fifth)     कायस्मा (kāyasmā) or कायम्हा    कायेहि (kāyehi) or कायेभि
+                     (kāyamhā) or काया (kāyā)        (kāyebhi)
+Genitive (sixth)     कायस्स (kāyassa)                कायानं (kāyānaṃ)
+Locative (seventh)   कायस्मिं (kāyasmiṃ) or कायम्हि  कायेसु (kāyesu)
+                     (kāyamhi) or काये (kāye)
+Vocative (calling)   काय (kāya)                      काया (kāyā)
+**** Etymology 2[edit] ****
+*** Pronoun[edit] ***
+काय
+   1. Devanagari_script form of kāya, which is instrumental/dative/ablative/
+      genitive/locative singular of का (kā, “who (f.)”)
+***** Sanskrit[edit] *****
+**** Alternative scripts[edit] ****
+Alternative scripts
+    * ᬓᬵᬬ (Balinese script)
+    * কায় (Assamese script)
+    * কায় (Bengali script)
+    * 𑰎𑰯𑰧 (Bhaiksuki script)
+    * 𑀓𑀸𑀬 (Brahmi script)
+    * 𑌕𑌾𑌯 (Grantha script)
+    * કાય (Gujarati script)
+    * ਕਾਯ (Gurmukhi script)
+    * ꦏꦴꦪ (Javanese script)
+    * កាយ (Khmer script)
+    * ಕಾಯ (Kannada script)
+    * ກາຍ (Lao script)
+    * കായ (Malayalam script)
+    * 𑘎𑘰𑘧 (Modi script)
+    * ᢉᠠᢗᠶ᠋ᠠ᠋ (Mongolian script)
+    * ᡬᠠ᠎᠊ᠠᠶᠠ (Manchu script)
+    * ကာယ (Burmese script)
+    * 𑦮𑧑𑧇 (Nandinagari script)
+    * 𑐎𑐵𑐫 (Newa script)
+    * କାଯ (Oriya script)
+    * ꢒꢵꢫ (Saurashtra script)
+    * 𑆑𑆳𑆪 (Sharada script)
+    * 𑖎𑖯𑖧 (Siddham script)
+    * කාය (Sinhalese script)
+    * కాయ (Telugu script)
+    * กาย (Thai script)
+    * ཀཱ་ཡ (Tibetan script)
+    * 𑒏𑒰𑒨 (Tirhuta script)
+**** Pronunciation[edit] ****
+    * (Vedic) IPA(key): /kɑː.jɐ/
+    * (Classical) IPA(key): /ˈkɑː.jɐ/
+**** Noun[edit] ****
+काय • (kāya) m
+   1. the body
+*** Derived terms[edit] ***
+    * धर्मकाय (dharmakāya)
+*** Descendants[edit] ***
+    * Lao: ກາຍ (kāi)
+Pali: kāya
+Telugu: కాయము (kāyamu)
+Thai: กาย (gaai)
+Retrieved from "https://en.wiktionary.org/w/index.php?title=काय&oldid=71731667"
+Categories:
+    * Marathi_terms_inherited_from_Sanskrit
+    * Marathi_terms_derived_from_Sanskrit
+    * Marathi_terms_with_IPA_pronunciation
+    * Marathi_lemmas
+    * Marathi_pronouns
+    * Marathi_terms_with_usage_examples
+    * Newar_terms_with_IPA_pronunciation
+    * Newar_lemmas
+    * Newar_nouns
+    * Newar_nouns_in_Devanagari_script
+    * Pali_lemmas
+    * Pali_nouns
+    * Pali_nouns_in_Devanagari_script
+    * Pali_masculine_nouns
+    * Pali_non-lemma_forms
+    * Pali_pronoun_forms
+    * Pali_interrogative_pronouns
+    * Sanskrit_terms_with_IPA_pronunciation
+    * Sanskrit_lemmas
+    * Sanskrit_nouns
+    * Sanskrit_nouns_in_Devanagari_script
+    * Sanskrit_masculine_nouns
+    * sa:Body
+Hidden categories:
+    * Terms_with_redundant_transliterations
+    * Terms_with_redundant_transliterations/mr
+    * Newar_terms_with_redundant_head_parameter
+    * Requests_for_gender_in_Newar_entries
+    * Pali_terms_with_redundant_head_parameter
+    * Sanskrit_entries_with_topic_categories_using_raw_markup
+***** Navigation menu *****
+**** Personal tools ****
+    * Not logged in
+    * Talk
+    * Contributions
+    * Create_account
+    * Log_in
+**** Namespaces ****
+    * Entry
+    * Discussion
+??English
+**** Views ****
+    * Read
+    * Edit
+    * History
+??More
+**** Search ****
+[Unknown INPUT type][Search][Go]
+**** Navigation ****
+    * Main_Page
+    * Community_portal
+    * Preferences
+    * Requested_entries
+    * Recent_changes
+    * Random_entry
+    * Help
+    * Glossary
+    * Donations
+    * Contact_us
+**** Tools ****
+    * What_links_here
+    * Related_changes
+    * Upload_file
+    * Special_pages
+    * Permanent_link
+    * Page_information
+    * Cite_this_page
+    * Get_shortened_URL
+**** Print/export ****
+    * Create_a_book
+    * Download_as_PDF
+    * Printable_version
+**** In other languages ****
+    * हिन्दी
+    * Kurdî
+    * Magyar
+    * Malagasy
+    * मराठी
+    * नेपाली
+    * Polski
+    * Русский
+    * संस्कृतम्
+    * This page was last edited on 17 March 2023, at 16:50.
+    * Definitions and other text are available under the Creative_Commons
+      Attribution-ShareAlike_License; additional terms may apply. By using this
+      site, you agree to the Terms_of_Use and Privacy_Policy.
+    * Privacy_policy
+    * About Wiktionary
+    * Disclaimers
+    * Code_of_Conduct
+    * Developers
+    * Statistics
+    * Cookie_statement
+    * Mobile_view
+    * [Wikimedia_Foundation]
+    * [Powered_by_MediaWiki]
