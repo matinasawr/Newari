@@ -26,7 +26,12 @@ while line:
 	if line.count('IPA(key)') > 0:
 		# We found a line with IPA, so split
 		# it by : and take the second half
-		ipa = line.split(':')[1].strip()
+		ipa = '_'
+		if line.count(':') == 0:
+			ipa = line.split(':')[1].strip()
+		else:	
+			#     * IPA(key): [muɡə:]
+			ipa = line.split('[')[1].split(']')[0].strip()
 
 	for pos_ in ['Noun', 'Verb', 'Adjective', 'Adverb', 'Pronoun']: 
 		if pos_ + '[edit]' in line:
@@ -37,10 +42,10 @@ while line:
 		transcription = re.findall('\([^)]+\)', line)[0]
 		if line.lower().count('deva spelling') > 0:
 			newari_form = line.split('•')[0].strip()
-			devanagari_form = line.lower().split('deva spelling')[1].strip(')')
+			devanagari_form = line.lower().split('deva spelling')[1].strip('() ')
 		elif line.lower().count('newa spelling') > 0:
 			devanagari_form = line.split('•')[0].strip()
-			newari_form = line.lower().split('newa spelling')[1].strip(')')
+			newari_form = line.lower().split('newa spelling')[1].strip('() ')
 		# else:
 		# 	print('!', line)
 
