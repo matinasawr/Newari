@@ -32,6 +32,7 @@ while line:
 		else:	
 			#     * IPA(key): [muɡə:]
 			ipa = line.split('[')[1].split(']')[0].strip()
+		ipa = ipa.replace(':', 'ː')
 
 	for pos_ in ['Noun', 'Verb', 'Adjective', 'Adverb', 'Pronoun']: 
 		if pos_ + '[edit]' in line:

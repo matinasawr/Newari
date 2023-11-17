@@ -11,15 +11,19 @@ def replace_keep_case(word, replacement, text):
 	#return re.sub(word, func, text)#, flags=re.I)
 	return re.sub(word, replacement, text)#, flags=re.I)
 
-line = sys.stdin.readline().strip()
+if len(sys.argv) != 2:
+	print('convertor.py [TSV FILE]', file=sys.stderr)
+	sys.exit(-1)
+
 
 table = {}
-for line in open('newariIPA.csv').readlines():
+for line in open(sys.argv[1]).readlines():
 	row = line.split(',')
 	nw = row[0].strip().upper()
 	IPA = row[1].strip()
 	table[nw]=IPA 
 	
+line = sys.stdin.readline().strip()
 while line:
 
 	tokens = re.sub('([:,.!?]+)', ' \g<1> ', line.upper()).split (' ')
